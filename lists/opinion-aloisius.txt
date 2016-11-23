@@ -1,0 +1,12 @@
+#
+# List: opinion-aloisius
+# Title: List of opinion news site urls
+#
+# Version: 1
+# Homepage: https://github.com/Aloisius/fake-news/
+#
+# ------------------------------------------------------------------------------
+
+nytimes.com$ /opinion/
+theguardian.com/commentisfree/
+thehill.com/blogs/pundits-blog/

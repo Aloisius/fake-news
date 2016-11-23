@@ -1,0 +1,84 @@
+#
+# List: fakenews-aloisius
+# Title: List of fringe news urls
+#
+# Version: 1
+# Homepage: https://github.com/Aloisius/fake-news/
+#
+# ------------------------------------------------------------------------------
+
+# sensationalism, fringe conspiracy theories
+breitbart.com$
+# sensationalism, tabloid journalism
+dailycaller.com$
+# fringe conspiracy theories
+infowars.com$
+# fringe conspiracy theories, tabloid journalism
+wnd.com$
+# fringe conspiracy theories
+globalresearch.ca$
+# fringe conspiracy theories, sensationalism, tabloid journalism
+huffingtonpost.com$
+# fringe conspiracy theories
+rt.com$
+# fringe conspiracy theories
+NaturalNews.com$
+# fringe conspiracy theories
+Pravda.ru$
+# fringe conspiracy theories
+sputniknews.com$
+# tabloid journalism
+dailymail.co.uk$
+# tabloid journalism
+nypost.com$
+# fringe conspiracy theories, tabloid journalism
+nationalenquirer.com$
+# tabloid journalism
+thesun.co.uk$
+# Fringe conspiracy theories (birtherism, Vince Foster, world government, global warming denialism)
+aim.com$
+# Fringe conspiracy theories, sensationalism
+newsmax.com$
+# Fringe conspiracy theories (alien invasions, illuminati), tabloid journalism, sensationalism
+express.co.uk$
+# Fringe conspiracy theories (ufos, aliens), tabloid journalism, sensationalism, blogs
+examiner.com$
+# Tabloid journalism, sensationalism
+usherald.com$
+# Tabloid journalism, sensationalism
+madworldnews.com$
+# Tabloid journalism, sensationalism
+truepundit.com$
+# Virulently Islamaphobic, sensationalism
+frontpagemag.com$
+# Virulently Islamaphobic, sensationalism
+jihadwatch.com$
+# Ideology: Fundamentalist Christian Conservative, creationism, global warming denialism
+cnsnews.com$
+# Sensationalism, tabloid journalism, seemingly fake news
+uspolitico.com$
+
+# The American Revenant
+#
+# Macedonia fake news site.
+#
+# Silicon Valley Bends the Knee: Apple to Relocate iPhone Assembly to America
+# https://theamericanrevenant.com/2016/11/18/silicon-valley-bends-the-knee-apple-to-relocate-iphone-assembly-to-america/
+#
+# 60 Minutes Goes To Sweden To Show How Peaceful Refugees Are, Entire Crew Gets Assaulted By Refugees
+# https://theamericanrevenant.com/2016/11/18/60-minutes-goes-to-sweden-to-show-how-peaceful-refugees-are-entire-crew-gets-assaulted-by-refugees/
+theamericanrevenant.com$
+
+# New Century Times
+#
+# Clickbait sensationalism & tabloid journalism
+#
+# Trump Makes STUNNING Decision On Clinton Prosecution, GOP PISSED (VIDEO)
+# http://newcenturytimes.com/2016/11/14/trump-clinton-prosecution/
+#
+# Famous TV Stars Run Into Trump Fans In A Bar; What Happens Next Should Scare Everyone (IMAGES)
+# http://newcenturytimes.com/2016/11/13/famous-tv-stars-run-into-trump-fans-in-a-bar-what-happens-next-should-scare-everyone-images/
+#
+# Oprah Just Did The Unthinkable Regarding Trump’s Presidency; Celebrities Pissed
+# http://newcenturytimes.com/2016/11/13/oprah-just-did-the-unthinkable-regarding-trumps-presidency-celebrities-pissed/
+newcenturytimes.com$

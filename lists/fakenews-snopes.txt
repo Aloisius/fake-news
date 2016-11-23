@@ -1,0 +1,25 @@
+#
+# List: fakenews-snopes
+# Title: List of fringe news urls from Snopes http://www.snopes.com/2016/01/14/fake-news-sites/
+#
+# Version: 1
+# Homepage: https://github.com/Aloisius/fake-news/
+#
+# ------------------------------------------------------------------------------
+
+
+nationalreport.net$
+worldnewsdailyreport.com$
+huzlers.com$
+empirenews.com$
+stuppid.com$
+newsexaminer.net$
+newswatch28.com$
+newswatch33.com$
+nahadaily.com$
+thestatelyharold.com$
+now8news.com$
+reporter.bz$
+empireherald.com$
+associatedmediacoverage.com$
+100percentfedup.com$
