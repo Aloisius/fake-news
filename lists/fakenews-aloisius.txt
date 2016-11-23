@@ -1,6 +1,6 @@
 #
 # List: fakenews-aloisius
-# Title: List of fringe news urls
+# Title: List of fringe news sites, kooks, cranks, conspiracies, rumors, gossip, sensationalism, tabloid journalism, fake news, propaganda, etc.
 #
 # Version: 1
 # Homepage: https://github.com/Aloisius/fake-news/
