@@ -67,6 +67,7 @@ sandiegouniontribune.com/opinion/
 al.com/opinion/
 cnn.com$ /opinions/
 bostonherald.com/opinion/
+independent.co.uk/voices/
 
 # Is The Intercept entirely editorialized?
 theintercept.com/greenwald/

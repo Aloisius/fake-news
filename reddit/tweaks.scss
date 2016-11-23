@@ -39,8 +39,13 @@ $categories: (
   $description: nth($value, 3);
 
   %#{$key} {
-    content: "#{$label}";
-    background-color: #{$color};
+    @if $key == "opinion" {
+      content: "#{$label}" !important;
+      background-color: #{$color} !important;
+    } @else {
+      content: "#{$label}";
+      background-color: #{$color};
+    }
   }
 
   %#{$key}-hover {

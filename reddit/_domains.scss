@@ -975,6 +975,10 @@
                   @extend %opinion;
                 }
                 
+                div.link[data-domain$="independent.co.uk"][data-url*="independent.co.uk/voices/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
                 div.link[data-domain$="theintercept.com"][data-url*="theintercept.com/greenwald/"] div.entry p.title::before {
                   @extend %opinion;
                 }
