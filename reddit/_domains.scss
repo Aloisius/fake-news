@@ -767,3 +767,7 @@
                   @extend %opinion;
                 }
                 
+                div.link[data-domain$="washingtonpost.com"][data-url*="washingtonpost.com/opinions/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
