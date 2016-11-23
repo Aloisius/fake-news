@@ -65,3 +65,5 @@ jsonline.com/story/opinion/
 greatfallstribune.com/story/opinion/
 sandiegouniontribune.com/opinion/
 al.com/opinion/
+
+cnn.com$ /opinions/
