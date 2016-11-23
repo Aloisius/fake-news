@@ -65,5 +65,15 @@ jsonline.com/story/opinion/
 greatfallstribune.com/story/opinion/
 sandiegouniontribune.com/opinion/
 al.com/opinion/
-
 cnn.com$ /opinions/
+bostonherald.com/opinion/
+
+# Is The Intercept entirely editorialized?
+theintercept.com/greenwald/
+theintercept.com/mackey/
+
+# These appear to be entirely commentary. Consider a blog list?
+redstate.com$
+reason.com$
+slate.com$
+salon.com$

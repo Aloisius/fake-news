@@ -971,3 +971,31 @@
                   @extend %opinion;
                 }
                 
+                div.link[data-domain$="bostonherald.com"][data-url*="bostonherald.com/opinion/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="theintercept.com"][data-url*="theintercept.com/greenwald/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="theintercept.com"][data-url*="theintercept.com/mackey/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="redstate.com"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="reason.com"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="slate.com"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="salon.com"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
