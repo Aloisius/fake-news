@@ -31,10 +31,10 @@ breitbart.com$
 # or
 ^bigstory.ap.org$ ^/news/$
 
-# Match al.com/burmingham/*
-al.com/burmingham/
+# Match al.com/birmingham/*
+al.com/birmingham/
 # or
-al.com$ ^/burmingham/
+al.com$ ^/birmingham/
 
 # Match */opinion/* at nytimes.com$
 nytimes.com$ /opinion/
