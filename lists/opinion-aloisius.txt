@@ -68,6 +68,7 @@ al.com/opinion/
 cnn.com$ /opinions/
 bostonherald.com/opinion/
 independent.co.uk/voices/
+motherjones.com/politics/
 
 # Is The Intercept entirely editorialized?
 theintercept.com/greenwald/

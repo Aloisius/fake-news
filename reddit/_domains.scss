@@ -979,6 +979,10 @@
                   @extend %opinion;
                 }
                 
+                div.link[data-domain$="motherjones.com"][data-url*="motherjones.com/politics/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
                 div.link[data-domain$="theintercept.com"][data-url*="theintercept.com/greenwald/"] div.entry p.title::before {
                   @extend %opinion;
                 }
