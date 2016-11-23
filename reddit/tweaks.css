@@ -17,7 +17,7 @@ div.link[data-domain$="breitbart.com"] div.entry p.title::before, div.link[data-
   content: "Fringe";
   background-color: #f5c5b5; }
 
-div.link[data-domain$="nytimes.com"][data-url*="/opinion/"] div.entry p.title::before, div.link[data-domain$="theguardian.com"][data-url*="theguardian.com/commentisfree/"] div.entry p.title::before, div.link[data-domain$="thehill.com"][data-url*="thehill.com/blogs/pundits-blog/"] div.entry p.title::before, div.link[data-domain$="washingtonpost.com"][data-url*="washingtonpost.com/opinions/"] div.entry p.title::before {
+div.link[data-domain$="nytimes.com"][data-url*="/opinion/"] div.entry p.title::before, div.link[data-domain$="theguardian.com"][data-url*="theguardian.com/commentisfree/"] div.entry p.title::before, div.link[data-domain$="thehill.com"][data-url*="thehill.com/blogs/pundits-blog/"] div.entry p.title::before, div.link[data-domain$="washingtonpost.com"][data-url*="washingtonpost.com/opinions/"] div.entry p.title::before, div.link[data-domain$="investors.com"][data-url*="investors.com/politics/commentary/"] div.entry p.title::before, div.link[data-domain$="foxnews.com"][data-url*="foxnews.com/opinion/"] div.entry p.title::before {
   content: "Opinion";
   background-color: #f5f5c5; }
 

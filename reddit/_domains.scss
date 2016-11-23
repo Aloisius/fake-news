@@ -771,3 +771,11 @@
                   @extend %opinion;
                 }
                 
+                div.link[data-domain$="investors.com"][data-url*="investors.com/politics/commentary/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
+                div.link[data-domain$="foxnews.com"][data-url*="foxnews.com/opinion/"] div.entry p.title::before {
+                  @extend %opinion;
+                }
+                
