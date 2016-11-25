@@ -118,34 +118,43 @@ def main(files):
 
     with open('_domains.scss', 'w') as f:
         for rule in rules:
+            domainpart = []
             rulepart = ''
             if rule.domain.match_type == Pattern.MATCH_SUFFIX:
-                rulepart += '[data-domain="{}"]'.format(rule.domain.text)
-                rulepart += '[data-domain$=".{}"]'.format(rule.domain.text)
+                domainpart.append('[data-domain="{}"]'.format(rule.domain.text))
+                domainpart.append('[data-domain$=".{}"]'.format(rule.domain.text))
             elif rule.domain.match_type == Pattern.MATCH_EXACT:
-                rulepart += '[data-domain="{}"]'.format(rule.domain.text)
+                domainpart.append('[data-domain="{}"]'.format(rule.domain.text))
             elif rule.domain.match_type == Pattern.MATCH_PREFIX:
-                rulepart += '[data-domain^="{}"]'.format(rule.domain.text)
+                domainpart.append('[data-domain^="{}"]'.format(rule.domain.text))
             elif rule.domain.match_type == Pattern.MATCH_SUBSTRING:
-                rulepart += '[data-domain*="{}"]'.format(rule.domain.text)
+                domainpart.append('[data-domain*="{}"]'.format(rule.domain.text))
 
             if rule.path.match_type == Pattern.MATCH_SUFFIX:
-                rulepart += '[data-url$="{}"]'.format(rule.path.text)
+                rulepart = '[data-url$="{}"]'.format(rule.path.text)
             elif rule.path.match_type == Pattern.MATCH_SUFFIX and rule.domain.match_type in (Pattern.MATCH_SUFFIX, Pattern.MATCH_EXACT):
-                rulepart += '[data-url$="{}{}"]'.format(rule.domain.text, rule.path.text)
+                rulepart = '[data-url$="{}{}"]'.format(rule.domain.text, rule.path.text)
             elif rule.path.match_type == Pattern.MATCH_PREFIX and rule.domain.match_type in (Pattern.MATCH_SUFFIX, Pattern.MATCH_EXACT):
-                rulepart += '[data-url*="{}{}"]'.format(rule.domain.text, rule.path.text)
+                rulepart = '[data-url*="{}{}"]'.format(rule.domain.text, rule.path.text)
             elif rule.path.match_type in (Pattern.MATCH_PREFIX, Pattern.MATCH_SUBSTRING, Pattern.MATCH_EXACT):
-                rulepart += '[data-url*="{}"]'.format(rule.path.text)
+                rulepart = '[data-url*="{}"]'.format(rule.path.text)
 
-
-            if rulepart:
-                o='''
-                div.link{} div.entry p.title::before {{
-                  @extend %{};
-                }}
-                '''
-                f.write(o.format(rulepart, rule.category))
+            if rulepart or len(domainpart):
+                if len(domainpart):
+                    for domain in domainpart:
+                        o='''
+                        div.link{} div.entry p.title::before {{
+                          @extend %{};
+                        }}
+                        '''
+                        f.write(o.format(domain+rulepart, rule.category))
+                else:
+                    o='''
+                    div.link{} div.entry p.title::before {{
+                      @extend %{};
+                    }}
+                    '''
+                    f.write(o.format(rulepart, rule.category))
             else:
                 print("unsupported rule format {}".format(rule))
 
