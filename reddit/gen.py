@@ -120,7 +120,8 @@ def main(files):
         for rule in rules:
             rulepart = ''
             if rule.domain.match_type == Pattern.MATCH_SUFFIX:
-                rulepart += '[data-domain$="{}"]'.format(rule.domain.text)
+                rulepart += '[data-domain="{}"]'.format(rule.domain.text)
+                rulepart += '[data-domain$=".{}"]'.format(rule.domain.text)
             elif rule.domain.match_type == Pattern.MATCH_EXACT:
                 rulepart += '[data-domain="{}"]'.format(rule.domain.text)
             elif rule.domain.match_type == Pattern.MATCH_PREFIX:

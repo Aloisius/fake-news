@@ -58,6 +58,12 @@ cnsnews.com$
 # Sensationalism, tabloid journalism, seemingly fake news
 uspolitico.com$
 
+# Defunct fake news sites by Jestin Coler of Disinfomedia
+# Added since they might pop up again
+denverguardian.com$
+USAToday.com.co$
+WashingtonPost.com.co$
+
 # The American Revenant
 #
 # Macedonia fake news site.
