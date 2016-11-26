@@ -88,3 +88,14 @@ theamericanrevenant.com$
 # Oprah Just Did The Unthinkable Regarding Trump’s Presidency; Celebrities Pissed
 # http://newcenturytimes.com/2016/11/13/oprah-just-did-the-unthinkable-regarding-trumps-presidency-celebrities-pissed/
 newcenturytimes.com$
+
+# Christwire
+#
+# Fake news
+#
+# Brexit: England Plans to Leave the EU and Become America’s 51st State
+# http://christwire.org/2016/06/brexit-england-plans-to-leave-the-eu-and-become-americas-51st-state/
+#
+# Gays Create Pokemon Go To Destroy Straight Marriage?
+# http://christwire.org/2016/07/gays-create-pokemon-go-to-destroy-straight-marriage/
+christwire.org$
