@@ -11,6 +11,7 @@ nytimes.com$ /opinion/
 theguardian.com/commentisfree/
 thehill.com/blogs/pundits-blog/
 washingtonpost.com/opinions/
+washingtonpost.com/blogs/plum-line/
 investors.com/politics/commentary/
 foxnews.com/opinion/
 

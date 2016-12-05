@@ -1575,6 +1575,14 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/plum-line/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/plum-line/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="investors.com"][data-url*="investors.com/politics/commentary/"] div.entry p.title::before {
                           @extend %opinion;
                         }
