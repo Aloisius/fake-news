@@ -1583,6 +1583,102 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/all-opinions-are-local/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/all-opinions-are-local/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/act-four/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/act-four/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/compost/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/compost/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/erik-wemple/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/erik-wemple/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/in-theory/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/in-theory/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/posteverything/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/posteverything/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/post-partisan/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/post-partisan/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/rampage/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/rampage/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/the-watch/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/the-watch/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/volokh-conspiracy/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/volokh-conspiracy/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="investors.com"][data-url*="investors.com/politics/commentary/"] div.entry p.title::before {
                           @extend %opinion;
                         }

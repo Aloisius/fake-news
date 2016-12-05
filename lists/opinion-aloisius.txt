@@ -2,7 +2,7 @@
 # List: opinion-aloisius
 # Title: List of opinion, commentary and editorialized news site urls
 #
-# Version: 1
+# Version: 2016120501
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
@@ -10,8 +10,22 @@
 nytimes.com$ /opinion/
 theguardian.com/commentisfree/
 thehill.com/blogs/pundits-blog/
+
 washingtonpost.com/opinions/
 washingtonpost.com/blogs/plum-line/
+washingtonpost.com/blogs/right-turn/
+washingtonpost.com/blogs/all-opinions-are-local/
+washingtonpost.com/news/act-four/
+washingtonpost.com/blogs/compost/
+washingtonpost.com/blogs/erik-wemple/
+washingtonpost.com/news/in-theory/
+washingtonpost.com/posteverything/
+washingtonpost.com/blogs/post-partisan/
+washingtonpost.com/news/rampage/
+washingtonpost.com/blogs/right-turn/
+washingtonpost.com/news/the-watch/
+washingtonpost.com/news/volokh-conspiracy/
+
 investors.com/politics/commentary/
 foxnews.com/opinion/
 

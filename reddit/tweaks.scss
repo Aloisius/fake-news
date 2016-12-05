@@ -1,36 +1,10 @@
-/* The categories that domains are labeled with.
+/**
+ * Fake News Reddit CSS
+ *
+ * https://github.com/Aloisius/fake-news/
+ */
 
-   Format:
-
-   "template key": (
-      "label title",
-      background color,
-      "category description",
-   )
-*/
-$categories: (
-  "pulitzer": (
-    "Pulitzer",
-    #b5c5f5,
-    "Organizations who have won Pulitzer for Journalism since 1981 (excluding commentary & photography)"
-  ),
-  "fringe": (
-    "Fringe",
-    #f5c5b5,
-    "Fringe media: kooks, cranks, conspiracies, rumors, gossip, sensationalism, tabloid journalism, fake news, propaganda, etc",
-  ),
-  "satire": (
-    "Satire",
-    #c5f5b5,
-    "Clearly disclosed satire",
-  ),
-  "opinion": (
-    "Opinion",
-    #f5f5c5,
-    "Articles that appear to be opinion pieces",
-  ),
-);
-
+@import 'settings';
 
 /* Build category templates */
 @each $key, $value in $categories {
@@ -53,7 +27,6 @@ $categories: (
   }
 }
 
-/* Match /r/politics and /r/news for right now */
 div.link {
   div.entry p.title::before {
     cursor: pointer;
@@ -72,4 +45,4 @@ div.link {
   }
 }
 
-@import '_domains';
+@import 'domains';

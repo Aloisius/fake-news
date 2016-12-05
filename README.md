@@ -9,12 +9,20 @@ lists I curated into a stylesheet for reddit:
 ![](docs/screenshot.png?raw=true)
 
 
-## To Use
+## To Use Reddit Stylesheet
 
 If using RedditEnhancementSuite, add by going to settings / appearance /
 stylesheet loader. Under loadStyleSheets, add a row with the following URL:
 
 https://cdn.rawgit.com/Aloisius/fake-news/master/reddit/tweaks.css
+
+Alternatively, if you use [Stylish for Firefox/Chrome/Safari/etc](https://userstyles.org/), you can install the following user style:
+
+https://userstyles.org/styles/136035/reddit-fake-news-tagger
+
+If you use [Stylebot for Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha), you can install this style:
+
+http://stylebot.me/styles/15677
 
 
 ## Lists
