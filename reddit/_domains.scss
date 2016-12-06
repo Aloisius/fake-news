@@ -247,6 +247,86 @@
                           @extend %fringe;
                         }
                         
+                        div.link[data-domain="themillenniumreport.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".themillenniumreport.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="veteranstoday.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".veteranstoday.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="stateofthenation2012.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".stateofthenation2012.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="socialmediamorning.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".socialmediamorning.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="americatalks.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".americatalks.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="themarshallreport.wordpress.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".themarshallreport.wordpress.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="ourshiftingperspective.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".ourshiftingperspective.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="newzsentinel.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".newzsentinel.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="unz.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".unz.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain="liveleak.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".liveleak.com"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
                         div.link[data-domain="nationalreport.net"] div.entry p.title::before {
                           @extend %fringe;
                         }
@@ -916,14 +996,6 @@
                         }
                         
                         div.link[data-domain$=".dcgazette.com"] div.entry p.title::before {
-                          @extend %fringe;
-                        }
-                        
-                        div.link[data-domain="veteranstoday.com"] div.entry p.title::before {
-                          @extend %fringe;
-                        }
-                        
-                        div.link[data-domain$=".veteranstoday.com"] div.entry p.title::before {
                           @extend %fringe;
                         }
                         
@@ -2148,6 +2220,14 @@
                         }
                         
                         div.link[data-domain$=".salon.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="rushlimbaugh.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".rushlimbaugh.com"] div.entry p.title::before {
                           @extend %opinion;
                         }
                         

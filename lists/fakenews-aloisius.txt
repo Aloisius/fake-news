@@ -2,7 +2,7 @@
 # List: fakenews-aloisius
 # Title: List of fringe news sites, kooks, cranks, conspiracies, rumors, gossip, sensationalism, tabloid journalism, fake news, propaganda, etc.
 #
-# Version: 1
+# Version: 2016120601
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
@@ -47,8 +47,15 @@ examiner.com$
 usherald.com$
 # Tabloid journalism, sensationalism
 madworldnews.com$
+
+# True Pundit
+#
 # Tabloid journalism, sensationalism
+#
+# BREAKING BOMBSHELL: NYPD Blows Whistle on New Hillary Emails: Money Laundering, Sex Crimes with Children, Child Exploitation, Pay to Play, Perjury
+# http://truepundit.com/breaking-bombshell-nypd-blows-whistle-on-new-hillary-emails-money-laundering-sex-crimes-with-children-child-exploitation-pay-to-play-perjury/
 truepundit.com$
+
 # Virulently Islamaphobic, sensationalism
 frontpagemag.com$
 # Virulently Islamaphobic, sensationalism
@@ -99,3 +106,116 @@ newcenturytimes.com$
 # Gays Create Pokemon Go To Destroy Straight Marriage?
 # http://christwire.org/2016/07/gays-create-pokemon-go-to-destroy-straight-marriage/
 christwire.org$
+
+# The Millennium Report
+#
+# Conspiracy theories, apparent Russia propaganda
+#
+# PIZZAGATE: The Greatest Scandal of the Third Millennium
+# http://themillenniumreport.com/2016/11/pizzagate-the-greatest-scandal-of-the-third-millennium/
+#
+# False Flag Just Staged At Comet Ping Pong Pizza Restaurant To Shut Down Alt Media
+# http://themillenniumreport.com/2016/12/false-flag-just-staged-at-comet-ping-pong-pizza-restaurant-to-shut-down-alt-media/
+#
+# 2 Conclusive Reports on MH17 Shoot-down By Ukraine Military Jets
+# http://themillenniumreport.com/2014/12/2-conclusive-reports-on-mh17-shoot-down-by-ukraine-military-jets/
+themillenniumreport.com$
+
+# Veterans Today
+#
+# Conspiracy theories
+#
+# VT Exclusive: Largest Pedophile Ring in History, 70,000 Members, Heads of State, the Rats Scramble
+# http://www.veteranstoday.com/2016/08/24/vt-exclusive-largest-pedophile-ring-in-history-70000-members-heads-of-state-the-rats-scramble/
+VeteransToday.com$
+
+# State of the Nation
+#
+# Conspiracy theories
+#
+# False Flag At Comet Ping Pong Pizza Restaurant Predicted By Alt Media
+# http://stateofthenation2012.com/?p=58937
+#
+# The PRE-PLANNED Financial and Economic 9/11 of 2008
+# http://stateofthenation2012.com/?m=201209
+#
+# A DECLARATION OF FREEDOM FROM THE TYRANNY OF THE WORLD SHADOW GOVERNMENT
+# http://stateofthenation2012.com/?m=201205
+stateofthenation2012.com$
+
+# Social Media Morning
+#
+# Conspiracy theories, tabloid journalism
+#
+# U.S. Government to mass administer flu vaccine using chemtrails
+# http://www.socialmediamorning.com/u-s-government-to-mass-administer-flu-vaccine-using-chemtrails/
+#
+# PizzaGate truth unsealed – Glenn Beck cover-up exposed?
+# http://www.socialmediamorning.com/pizzagate-truth-unsealed-glenn-beck-cover-up-exposed/
+socialmediamorning.com$
+
+# America Talks
+#
+# Conspiracy theories
+#
+# False Flag Just Staged At Comet Ping Pong Pizza Restaurant To Shut Down Alt Media
+# http://www.americatalks.com/politics/false-flag-just-staged-at-comet-ping-pong-pizza-restaurant-to-shut-down-alt-media/
+#
+# 500-Bed ‘FEMA Camp’ Built In Texas As ‘Something Bizarre Is Going On At The US Border’
+# http://www.americatalks.com/politics/500-bed-fema-camp-built-in-texas-as-something-bizarre-is-going-on-at-the-us-border/
+americatalks.com$
+
+# The Marshall Report
+#
+# Conspiracy theories
+#
+# PIZZA GATE IS ANCIENT BAAL RELIGION OF LUCIFER! EXPOSE THESE EVIL CHILD MURDERERS! THIS IS SPIRITUAL WARFARE!
+# https://themarshallreport.wordpress.com/2016/12/03/pizza-gate-is-ancient-baal-religion-of-lucifer-expose-these-evil-child-murderers-this-is-spiritual-warfare/
+#
+# Blatant PSYOP Staged at Comet Ping Pong Pizza
+# https://themarshallreport.wordpress.com/2016/12/05/blatant-psyop-staged-at-comet-ping-pong-pizza/
+themarshallreport.wordpress.com$
+
+# Our Shifting Perspective
+#
+# Conspiracy theories
+#
+# False Flag Just Staged At Comet Ping Pong Pizza Restaurant To Shut Down Alt Media ~ The Millennium Report
+# https://ourshiftingperspective.com/2016/12/05/false-flag-just-staged-at-comet-ping-pong-pizza-restaurant-to-shut-down-alt-media-the-millennium-report/
+ourshiftingperspective.com$
+
+# NewZSentinel
+#
+# Conspiracy theories, sensationalism
+#
+# San Barnardino Killings Clearly A US Black Ops operation
+# http://newzsentinel.com/san-barnardino-killings-clearly-a-us-black-ops-operation/
+#
+# TRUMP JUST EXPOSED THE ENTIRE US GOVERNMENT WITH TWEET THAT OBAMA DOES NOT WANT YOU TO SEE
+# http://newzsentinel.com/trump-just-exposed-the-entire-us-government-with-tweet-that-obama-does-not-want-you-to-see/
+newzsentinel.com$
+
+# The Unz Review
+#
+# Conspiracy theories
+#
+# 9/11 Truth? Was it an "American coup?"
+# http://www.unz.com/article/911-truth/
+#
+# What Really Happened in San Bernardino? Eyewitnesses: “Three Tall White Men”
+# http://www.unz.com/article/what-really-happened-in-san-bernardino/
+unz.com$
+
+# Live Leak
+#
+# Conspiracy theories
+#
+# Obama Officials Confirm Sandy Hook Was False Flag and No Children Died
+# http://www.liveleak.com/view?i=b26_1403187232
+#
+# Paris Shooting (False Flag/Hoax?) Exposing Cafe Shooting CCTV and Photo Ops.
+# http://www.liveleak.com/view?i=a5a_1448300090
+#
+# Pizzagate False Flag - As I Predicted 9 Days Early! GUNMAN At Comet Ping Pong PIZZA!
+# http://www.liveleak.com/view?i=0e4_1480893302
+liveleak.com$

@@ -2,7 +2,7 @@
 # List: opinion-aloisius
 # Title: List of opinion, commentary and editorialized news site urls
 #
-# Version: 2016120501
+# Version: 2016120601
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
@@ -94,3 +94,5 @@ redstate.com$
 reason.com$
 slate.com$
 salon.com$
+
+rushlimbaugh.com$
