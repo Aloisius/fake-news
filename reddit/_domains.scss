@@ -495,14 +495,6 @@
                           @extend %fringe;
                         }
                         
-                        div.link[data-domain="thefreethoughtproject.com"] div.entry p.title::before {
-                          @extend %fringe;
-                        }
-                        
-                        div.link[data-domain$=".thefreethoughtproject.com"] div.entry p.title::before {
-                          @extend %fringe;
-                        }
-                        
                         div.link[data-domain="politicalears.com"] div.entry p.title::before {
                           @extend %fringe;
                         }

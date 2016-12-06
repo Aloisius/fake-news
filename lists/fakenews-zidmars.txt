@@ -2,7 +2,7 @@
 # List: fakenews-zidmars
 # Title: List of fake news urls from Zidmars
 #
-# Version: 1
+# Version: 2016120601
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
@@ -13,7 +13,10 @@ PakAlertPress.com$
 FPRNradio.com$
 PoliticalBlindSpot.com$
 70news.wordpress.com$
-thefreethoughtproject.com$
+
+# Can't find any fake news
+# thefreethoughtproject.com$
+
 PoliticalEars.com$
 Abcnews.com.co$
 GeoEngineeringWatch.org$
