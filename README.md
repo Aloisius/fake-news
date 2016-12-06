@@ -1,9 +1,10 @@
 # fake-news
 
-List of fringe, opinion and pulitzer prize winning news sites as well as reddit
-stylesheet to visually tag links to them appropriately.
+Curated lists of fringe, opinion and pulitzer prize winning news sites as well
+as a reddit stylesheet to visually tag links to them appropriately.
 
-![](docs/screenshot.png?raw=true)
+If you have your own list which classify sites or sections of sites, please let
+me know so I can include it.
 
 ## Lists
 
@@ -19,14 +20,14 @@ There are currently 5 separate lists of 270 URLs and sites:
 ### List Format
 
 Lists are formatted with either "host/path" or "host path" on each line with support for simple prefix (^), suffix ($),
-substring on the hostname or path. 
+substring on the hostname or path.
 
 Comments begin with a hash (#).
 
 Examples:
 
 ```bash
-# Match anything to http://breitbart.com or any subdomain 
+# Match anything to http://breitbart.com or any subdomain
 # (e.g. http://www.breitbart.com)
 breitbart.com$
 
@@ -35,19 +36,21 @@ breitbart.com$
 # or
 ^bigstory.ap.org$ ^/news/$
 
-# Match any URL with the prefix of http://al.com/birmingham/ 
+# Match any URL with the prefix of http://al.com/birmingham/
 # (e.g. http://al.com/birmingham/ and http://al.com/birmingham/article/123
 al.com/birmingham/
 # or
 al.com$ ^/birmingham/
 
-# Match any URL containing /opinion/ in the path at nytimes.com or any subdomain 
+# Match any URL containing /opinion/ in the path at nytimes.com or any subdomain
 # (e.g. http://www.nytimes.com/pages/opinion/index.html)
 nytimes.com$ /opinion/
 ```
 
 
 ## To Use Reddit Stylesheet
+
+![](docs/screenshot.png?raw=true)
 
 ### With [RedditEnhancementSuite](https://redditenhancementsuite.com)
 
