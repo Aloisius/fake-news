@@ -39,7 +39,7 @@ class Pattern(object):
         elif self.match_type == self.MATCH_EXACT:
             return self.text == text
         elif self.match_type == self.MATCH_SUBSTRING:
-            return text.find(text) != -1
+            return self.text.find(text) != -1
 
     def __str__(self):
         labels = ['MATCH_SUBSTRING', 'MATCH_PREFIX', 'MATCH_SUFFIX', 'MATCH_EXACT', 'MATCH_NONE']
