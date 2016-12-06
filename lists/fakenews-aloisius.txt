@@ -17,8 +17,21 @@ infowars.com$
 wnd.com$
 # fringe conspiracy theories
 globalresearch.ca$
-# fringe conspiracy theories, sensationalism, tabloid journalism
+
+# Huffington Post
+#
+# Fringe conspiracy theories, sensationalism, tabloid journalism
+#
+# Note: unfortunately HuffPo doesn't make it easy to separate blog postings
+# which may promote conspiracy theories from everything else.
+#
+# Senator McCain: “Strong Evidence” of Autism-Vaccine Link
+# http://www.huffingtonpost.com/david-kirby/senator-mccain-strong-evi_b_89318.html
+#
+# In the Vaccine-Autism Debate, What Can Parents Believe?
+# http://www.huffingtonpost.com/jenny-mccarthy/vaccine-autism-debate_b_806857.html
 huffingtonpost.com$
+
 # fringe conspiracy theories
 rt.com$
 # fringe conspiracy theories
