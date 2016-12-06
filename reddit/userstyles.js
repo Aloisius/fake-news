@@ -1,5 +1,5 @@
 /*
- * Upload css to userscripts.org
+ * Upload css to userstyles.org
  *
  */
 
@@ -9,8 +9,8 @@ var system = require('system');
 var env = system.env;
 var css = fs.read('stylish.css');
 
-var username = env['USERSCRIPTS_USERNAME'];
-var password = env['USERSCRIPTS_PASSWORD'];
+var username = env['USERSTYLES_USERNAME'];
+var password = env['USERSTYLES_PASSWORD'];
 
 var casper = require('casper').create({
     pageSettings: {
@@ -22,6 +22,9 @@ var casper = require('casper').create({
     verbose: true                  // log messages will be printed out to the console
 });
 
+function onTimeout() {
+  this.debugHTML();
+}
 
 casper.start('https://userstyles.org/login?view=password');
 
@@ -38,7 +41,7 @@ casper.waitForSelector('form#password-login', function() {
 
 casper.waitForUrl(/\/users\/378459$/, function() {
     this.echo('redirected to user page');
-});
+}, onTimeout);
 
 
 casper.thenOpen('https://userstyles.org/styles/136035/edit');
