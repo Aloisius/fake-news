@@ -96,3 +96,22 @@ slate.com$
 salon.com$
 
 rushlimbaugh.com$
+
+# These seem to all be opinion sub-sites, but /sites/ isn't necessarily
+forbes.com/sites/adammillsap/
+forbes.com/sites/billwhalen/
+forbes.com/sites/henrymiller/
+forbes.com/sites/gmoanswers/
+forbes.com/sites/jaredmeyer/
+forbes.com/sites/johngoodman/
+forbes.com/sites/johntamny/
+forbes.com/sites/merrillmatthews/
+forbes.com/sites/michaelkrauss/
+forbes.com/sites/nathanlewis/
+forbes.com/sites/opportunitylives/
+forbes.com/sites/patrickgleason/
+forbes.com/sites/realspin/
+forbes.com/sites/robertbradley/
+forbes.com/sites/stevepociask/
+forbes.com/sites/timworstall/
+forbes.com/sites/theapothecary/
