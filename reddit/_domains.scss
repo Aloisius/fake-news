@@ -2375,3 +2375,11 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="commondreams.org"][data-url*="commondreams.org/views/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".commondreams.org"][data-url*="commondreams.org/views/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
