@@ -9,7 +9,10 @@
 
 nytimes.com$ /opinion/
 theguardian.com/commentisfree/
+
+thehill.com/blogs/in-the-know
 thehill.com/blogs/pundits-blog/
+thehill.com/opinion/
 
 washingtonpost.com/opinions/
 washingtonpost.com/blogs/plum-line/

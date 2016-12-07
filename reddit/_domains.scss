@@ -1623,11 +1623,27 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="thehill.com"][data-url*="thehill.com/blogs/in-the-know"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".thehill.com"][data-url*="thehill.com/blogs/in-the-know"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="thehill.com"][data-url*="thehill.com/blogs/pundits-blog/"] div.entry p.title::before {
                           @extend %opinion;
                         }
                         
                         div.link[data-domain$=".thehill.com"][data-url*="thehill.com/blogs/pundits-blog/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="thehill.com"][data-url*="thehill.com/opinion/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".thehill.com"][data-url*="thehill.com/opinion/"] div.entry p.title::before {
                           @extend %opinion;
                         }
                         
