@@ -8,7 +8,7 @@ me know so I can include it.
 
 ## Lists
 
-There are currently 5 separate lists of 270 URLs and sites:
+There are currently 5 separate lists of 674 URLs and sites:
 
 * [fakenews-aloisius](lists/fakenews-aloisius.txt) - Fringe media sites that engage in yellow journalism, conspiracies, rumors, gossip, sensationalism, tabloid journalism, fake news, propaganda, etc.
 * [fakenews-snopes](lists/fakenews-snopes.txt) - Fake news sites from snopes.com
