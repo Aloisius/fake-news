@@ -92,7 +92,7 @@ def main(files):
                 print(line)
 
                 if line.find('#') != -1:
-                    line, comment = line.rsplit('#', 1)
+                    line, comment = line.split('#', 1)
                     line = line.strip()
                     if line == '':
                         continue
@@ -158,6 +158,69 @@ def main(files):
             else:
                 print("unsupported rule format {}".format(rule))
 
+    for category in ['fringe', 'pulitzer', 'satire', 'opinion']:
+        print("--------")
+        print("Category: {}".format(category))
+        print("--------")
+
+        newrules = {}
+        for rule in rules:
+            if rule.category != category:
+                continue
+
+            key = (rule.domain.match_type, rule.path.match_type)
+            if key not in newrules:
+                newrules[key] = []
+
+            newrules[key].append(rule)
+
+        for kind in newrules:
+            prefix = ''
+            suffix = ''
+
+            rule = newrules[kind][0]
+
+            if rule.domain.match_type in (Pattern.MATCH_SUFFIX, Pattern.MATCH_NONE):
+                prefix = '^(?:[^\\/]*\\.)?'
+            elif rule.domain.match_type == Pattern.MATCH_EXACT:
+                prefix = '^'
+            elif rule.domain.match_type == Pattern.MATCH_PREFIX:
+                prefix = '^'
+
+            if rule.path.match_type in (Pattern.MATCH_PREFIX, Pattern.MATCH_NONE, Pattern.MATCH_SUBSTRING):
+                suffix='.*'
+            elif rule.path.match_type == Pattern.MATCH_EXACT:
+                suffix='$'
+
+            if prefix and suffix:
+                joined=''
+                for rule in newrules[kind]:
+                    if rule.domain.match_type == Pattern.MATCH_NONE:
+                        domain = ''
+                    else:
+                        domain = str(rule.domain.text).replace('/', '\\/').replace('.', '\\.')
+
+                    if rule.path.match_type == Pattern.MATCH_NONE:
+                        path = ''
+                    else:
+                        path = str(rule.path.text).replace('/', '\\/').replace('.', '\\.')
+
+                    if rule.path.match_type == Pattern.MATCH_SUBSTRING:
+                        if len(path) and path[0] == '/':
+                            path = '.*)?' + path
+                        else:
+                            path = '(?:\\/.*)?' + path
+
+                    record = domain + path
+
+                    if len(record):
+                        if len(joined):
+                            joined += '|'
+                        joined += record
+
+                print("{}.push(/{}(?:{}){}/);".format(rule.category, prefix, joined, suffix))
+            else:
+                print("Weird, this should not happen")
 
 
 if __name__ == "__main__":
@@ -165,7 +228,10 @@ if __name__ == "__main__":
         ('../lists/fakenews-aloisius.txt', 'fringe'),
         ('../lists/fakenews-snopes.txt', 'fringe'),
         ('../lists/fakenews-zidmars.txt', 'fringe'),
+        ('../lists/fakenews-fakenewschecker.txt', 'fringe'),
+        ('../lists/satire-fakenewschecker.txt', 'satire'),
         ('../lists/pulitzer-aloisius.txt', 'pulitzer'),
         ('../lists/opinion-aloisius.txt', 'opinion'),
+        ('../lists/opinion-fakenewschecker.txt', 'opinion'),
     ]
     main(files)

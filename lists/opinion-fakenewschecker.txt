@@ -1,0 +1,678 @@
+#
+# List: satire-fakenewschecker
+# Title: List of opinion news sites from fakenewschecker.com
+#
+# Version: 2016120701
+# Homepage: http://www.fakenewschecker.com
+#
+# ------------------------------------------------------------------------------
+
+# Advocate
+# "The U.S. based national gay and lesbian news magazine. Includes the GSK
+# pride guide, forums, and links related to articles."
+# http://www.fakenewschecker.com/fake-news-source/advocate
+#
+# Biases: left bias, political, special interest
+#
+# Advocate publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+advocate.com$
+
+# AlterNet
+# "AlterNet is an award-winning news magazine and online community that creates
+# original journalism and amplifies the best of dozens of other independent
+# media sources. AlterNet s aim is to inspire citizen action and advocacy on
+# the environment, human rights and civil liberties, social justice, media, and
+# health care issues. Their editorial mix underscores a commitment to fairness,
+# equity and global stewardship, and making connections across generational,
+# ethnic and issue lines."
+# http://www.fakenewschecker.com/fake-news-source/alternet
+#
+# Biases: left bias, political
+#
+# AlterNet publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+alternet.org$
+
+# Amandla!
+# http://www.fakenewschecker.com/fake-news-source/amandla
+#
+# Biases: left bias, political, special interest
+#
+# Amandla! publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+aidc.org.za/amandla-media/
+
+# America Blog
+# http://www.fakenewschecker.com/fake-news-source/america-blog
+#
+# Biases: left bias, political
+#
+# America Blog publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+americablog.com$
+
+# American Herald Tribune
+# http://www.fakenewschecker.com/fake-news-source/american-herald-tribune
+#
+# Biases: left bias, political
+#
+# American Herald Tribune publishes information from a left biased position
+# with an advocacy for liberal causes. The editorial content and headlines are
+# often loaded with strong words to appeal to emotions and stereotypes. They
+# may publish misleading reports, cite unverified sources, reference bogus
+# reports and omit information that may damage their cause. The information
+# provided should be regarded as speculative opinion and/or propaganda. It is
+# among the most untrustworthy sources in the media.
+ahtribune.com$
+
+# Bay Area Reporter
+# "San Francisco gay, lesbian and bisexual newspaper covering local and
+# national news and arts."
+# http://www.fakenewschecker.com/fake-news-source/bay-area-reporter
+#
+# Biases: left bias, political, special interest
+#
+# Bay Area Reporter publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+ebar.com$
+
+# Canadian Dimension
+# http://www.fakenewschecker.com/fake-news-source/canadian-dimension
+#
+# Biases: left bias, political, special interest
+#
+# Canadian Dimension publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+canadiandimension.com$
+
+# Center For American Progress
+# "Liberal think tank offers policy proposals, talking points, events, news and
+# columns. Weekly email newsletter Progress Report."
+# http://www.fakenewschecker.com/fake-news-source/center-american-progress
+#
+# Biases: left bias, political
+#
+# Center For American Progress publishes information from a left biased
+# position with an advocacy for liberal causes. The editorial content and
+# headlines are often loaded with strong words to appeal to emotions and
+# stereotypes. They may publish misleading reports, cite unverified sources,
+# reference bogus reports and omit information that may damage their cause. The
+# information provided should be regarded as speculative opinion and/or
+# propaganda. It is among the most untrustworthy sources in the media.
+americanprogress.org$
+
+# Common Dreams
+# http://www.fakenewschecker.com/fake-news-source/common-dreams
+#
+# Biases: left bias, political
+#
+# Common Dreams publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+commondreams.org$
+
+# CounterPunch
+# http://www.fakenewschecker.com/fake-news-source/counterpunch
+#
+# Biases: inciteful, left bias, political
+#
+# CounterPunch publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+counterpunch.org$
+
+# Crooks and Liars
+# "A politically left blog focusing on political events and the news coverage
+# of them."
+# http://www.fakenewschecker.com/fake-news-source/crooks-and-liars
+#
+# Biases: conspiratorial, inciteful, left bias, political
+#
+# Crooks and Liars publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+crooksandliars.com$
+
+# Daily Kos
+# http://www.fakenewschecker.com/fake-news-source/daily-kos
+#
+# Biases: editorial, left bias, political
+#
+# Daily Kos publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+dailykos.com$
+
+# Daily News Bin
+# http://www.fakenewschecker.com/fake-news-source/daily-news-bin
+#
+# Biases: editorial, left bias, political
+#
+# Daily News Bin publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+dailynewsbin.com$
+
+# Dallas Voice
+# http://www.fakenewschecker.com/fake-news-source/dallas-voice
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Dallas Voice publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+dallasvoice.com$
+
+# Defend Democracy
+# http://www.fakenewschecker.com/fake-news-source/defend-democracy
+#
+# Biases: left bias, political
+#
+# Defend Democracy publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+defenddemocracy.press$
+
+# Democracy Now
+# http://www.fakenewschecker.com/fake-news-source/democracy-now
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Democracy Now publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+democracynow.org$
+
+# Democratic Underground
+# http://www.fakenewschecker.com/fake-news-source/democratic-underground
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Democratic Underground publishes information from a left biased position with
+# an advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+democraticunderground.com$
+
+# Dissent Magazine
+# http://www.fakenewschecker.com/fake-news-source/dissent-magazine
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Dissent Magazine publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+dissentmagazine.org$
+
+# Earth We Are One
+# http://www.fakenewschecker.com/fake-news-source/earth-we-are-one
+#
+# Biases: conspiratorial, psuedoscience
+#
+# Earth We Are One publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+ewao.com$
+
+# Economy in Crisis
+# "Economy in Crisis is a website and campaign for educating legislators and
+# the American public about the trade deficit, our country s inability to
+# manufacture competitively, and the sale of our country s assets to foreign
+# owned companies."
+# http://www.fakenewschecker.com/fake-news-source/economy-crisis
+#
+# Biases: conspiratorial, editorial, left bias, political
+#
+# Economy in Crisis publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+economyincrisis.org$
+
+# Forward Progressives
+# http://www.fakenewschecker.com/fake-news-source/forward-progressives
+#
+# Biases: conspiratorial, editorial, left bias, political
+#
+# Forward Progressives publishes information from a left biased position with
+# an advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+forwardprogressives.com$
+
+# Freak Out Nation
+# http://www.fakenewschecker.com/fake-news-source/freak-out-nation
+#
+# Biases: conspiratorial, editorial, inciteful, left bias, political
+#
+# Freak Out Nation publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+freakoutnation.com$
+
+# Gone Left
+# http://www.fakenewschecker.com/fake-news-source/gone-left
+#
+# Biases: conspiratorial, editorial, left bias, political
+#
+# Gone Left publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+goneleft.com$
+
+# If You Only News
+# http://www.fakenewschecker.com/fake-news-source/if-you-only-news
+#
+# Biases: conspiratorial, editorial, left bias, political
+#
+# If You Only News publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+ifyouonlynews.com$
+
+# Information Clearing House
+# http://www.fakenewschecker.com/fake-news-source/information-clearing-house
+#
+# Biases: conspiratorial, left bias, political
+#
+# Information Clearing House publishes information from a left biased position
+# with an advocacy for liberal causes. The editorial content and headlines are
+# often loaded with strong words to appeal to emotions and stereotypes. They
+# may publish misleading reports, cite unverified sources, reference bogus
+# reports and omit information that may damage their cause. The information
+# provided should be regarded as speculative opinion and/or propaganda. It is
+# among the most untrustworthy sources in the media.
+informationclearinghouse.info$
+
+# Jack Pine Radicals
+# http://www.fakenewschecker.com/fake-news-source/jack-pine-radicals
+#
+# Biases: left bias, political
+#
+# Jack Pine Radicals publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+jackpineradicals.com$
+
+# Jacobin
+# http://www.fakenewschecker.com/fake-news-source/jacobin
+#
+# Biases: left bias, political
+#
+# Jacobin publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+jacobinmag.com$
+
+# Jezebel
+# "Online magazine focused on celebrities, sex, feminism, and issues relating
+# to women’s empowerment."
+# http://www.fakenewschecker.com/fake-news-source/jezebel
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Jezebel publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+jezebel.com$
+
+# Liberal America
+# http://www.fakenewschecker.com/fake-news-source/liberal-america
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Liberal America publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+liberalamerica.org$
+
+# Media Matters
+# "A non-profit progressive research and information center dedicated to
+# comprehensively monitoring, analyzing, and correcting conservative
+# misinformation in the U.S. media. Founded by David Brock."
+# http://www.fakenewschecker.com/fake-news-source/media-matters
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Media Matters publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+mediamatters.org$
+
+# Mother Jones
+# http://www.fakenewschecker.com/fake-news-source/mother-jones
+#
+# Biases: editorial, left bias, political
+#
+# Mother Jones publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+motherjones.com$
+
+# Move On
+# http://www.fakenewschecker.com/fake-news-source/move
+#
+# Biases: editorial, left bias, political
+#
+# Move On publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+moveon.org$
+
+# Nation of Change
+# http://www.fakenewschecker.com/fake-news-source/nation-change
+#
+# Biases: editorial, left bias, political
+#
+# Nation of Change publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+nationofchange.org$
+
+# New Century Times
+# http://www.fakenewschecker.com/fake-news-source/new-century-times
+#
+# Biases: left bias, political
+#
+# New Century Times publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+newcenturytimes.com$
+
+# News Corpse
+# "Critical look at the current state of journalism. "The Internet's Chronicle
+# of Media Decay." "
+# http://www.fakenewschecker.com/fake-news-source/news-corpse
+#
+# Biases: editorial, left bias, political
+#
+# News Corpse publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+newscorpse.com$
+
+# Occupy Democrats
+# http://www.fakenewschecker.com/fake-news-source/occupy-democrats
+#
+# Biases: left bias, political
+#
+# Occupy Democrats publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+occupydemocrats.com$
+
+# Political Updater
+# http://www.fakenewschecker.com/fake-news-source/political-updater
+#
+# Biases: left bias, political
+#
+# Political Updater publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+politicalupdater.com$
+
+# Politics USA
+# "PoliticusUSA brings you news, political commentary & analysis from a liberal
+# point of view. We're independent and fact-based but never lacking for
+# grounded, hard-hitting opinions. At Politicususa, liberal means open-minded;
+# we don't subscribe to any agenda but the truth."
+# http://www.fakenewschecker.com/fake-news-source/politics-usa
+#
+# Biases: left bias, political
+#
+# Politics USA publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+politicususa.com$
+
+# Raw Story
+# http://www.fakenewschecker.com/fake-news-source/raw-story
+#
+# Biases: left bias, political
+#
+# Raw Story publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+rawstory.com$
+
+# Real Time Politics
+# http://www.fakenewschecker.com/fake-news-source/real-time-politics
+#
+# Biases: left bias, political
+#
+# Real Time Politics publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+realtimepolitics.com$
+
+# The Daily Beast
+# "The Daily Beast delivers award-winning original reporting and sharp opinion
+# from big personalities in the arenas of politics, pop-culture, world news and
+# more. Fiercely independent and armed with irreverent intelligence, The Daily
+# Beast now reaches more than 20 million readers per month."
+# http://www.fakenewschecker.com/fake-news-source/daily-beast
+#
+# Biases: left bias, political
+#
+# The Daily Beast publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+thedailybeast.com$
+
+# The Free Thought Project
+# http://www.fakenewschecker.com/fake-news-source/free-thought-project
+#
+# Biases: conspiratorial, editorial, inciteful, left bias, political
+#
+# The Free Thought Project publishes information from a left biased position
+# with an advocacy for liberal causes. The editorial content and headlines are
+# often loaded with strong words to appeal to emotions and stereotypes. They
+# may publish misleading reports, cite unverified sources, reference bogus
+# reports and omit information that may damage their cause. The information
+# provided should be regarded as speculative opinion and/or propaganda. It is
+# among the most untrustworthy sources in the media.
+thefreethoughtproject.com$
+
+# True Activist
+# http://www.fakenewschecker.com/fake-news-source/true-activist
+#
+# Biases: left bias, political
+#
+# True Activist publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+trueactivist.com$
+
+# US Uncut
+# http://www.fakenewschecker.com/fake-news-source/us-uncut
+#
+# Biases: conspiratorial, inciteful, left bias, political
+#
+# US Uncut publishes information from a left biased position with an advocacy
+# for liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+usuncut.com$
+
+# Who.What.Why
+# http://www.fakenewschecker.com/fake-news-source/whowhatwhy
+#
+# Biases:
+whowhatwhy.org$
+
+# Winning Democrats
+# http://www.fakenewschecker.com/fake-news-source/winning-democrats
+#
+# Biases: conspiratorial, inciteful, left bias, political
+#
+# Winning Democrats publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+winningdemocrats.com$

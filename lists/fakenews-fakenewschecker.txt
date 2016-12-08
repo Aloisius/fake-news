@@ -1,0 +1,3065 @@
+#
+# List: fakenews-fakenewschecker
+# Title: List of fake news sites from fakenewschecker.com
+#
+# Version: 2016120701
+# Homepage: https://github.com/Aloisius/fake-news/
+#
+# ------------------------------------------------------------------------------
+
+# 100 Percent Fed Up
+# http://www.fakenewschecker.com/fake-news-source/100-percent-fed
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# 100 Percent Fed Up publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+100percentfedup.com$
+
+# 21st Century Wire
+# http://www.fakenewschecker.com/fake-news-source/21st-century-wire
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# 21st Century Wire publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+21stcenturywire.com$
+
+# 365 USA News
+# http://www.fakenewschecker.com/fake-news-source/365-usa-news
+#
+# Biases: conspiratorial, political, right bias
+#
+# 365 USA News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+365usanews.com$
+
+# 70News
+# http://www.fakenewschecker.com/fake-news-source/70news
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# 70News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+70news.wordpress.com$
+
+# ABCNews.com.co
+# http://www.fakenewschecker.com/fake-news-source/abcnewscomco
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# ABCNews.com.co publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+abcnews.com.co$
+
+# Abel Danger
+# http://www.fakenewschecker.com/fake-news-source/abel-danger
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Abel Danger publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+abeldanger.net$
+
+# Above Top Secret
+# "Government projects and facilities, including the notorious Area 51 in
+# Nevada, as well as "Alien-related laws", government contractors, agencies and
+# aircraft projects, such as the famous Aurora hypersonic spyplane."
+# http://www.fakenewschecker.com/fake-news-source/above-top-secret
+#
+# Biases: conspiratorial, political
+#
+# Above Top Secret publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+abovetopsecret.com$
+
+# Activist Post
+# http://www.fakenewschecker.com/fake-news-source/activist-post
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias, war
+activistpost.com$
+
+# Addicting Info
+# "Political knowledge and news, shared by moderates, independents, and people
+# on the left. Our goal is to be a resource to discredit right-wing lies,
+# myths, and talking points."
+# http://www.fakenewschecker.com/fake-news-source/addicting-info
+#
+# Biases: left bias, political
+#
+# Addicting Info publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+addictinginfo.org$
+
+# All News Pipeline
+# http://www.fakenewschecker.com/fake-news-source/all-news-pipeline-0
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# All News Pipeline Up publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+allnewspipeline.com$
+
+# America's Freedom Fighters
+# "The Absolute Best Conservative News For Patriots, Written By Patriots."
+# http://www.fakenewschecker.com/fake-news-source/americas-freedom-fighters
+#
+# Biases: conspiratorial, political, right bias
+#
+# America's Freedom Fighters publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americasfreedomfighters.com$
+
+# American Free Press
+# http://www.fakenewschecker.com/fake-news-source/american-free-press
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# American Free Presspublishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americanfreepress.net$
+
+# American Lookout
+# http://www.fakenewschecker.com/fake-news-source/american-lookout
+#
+# Biases: conspiratorial, political
+#
+# American Lookout publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americanlookout.com$
+
+# American News
+# http://www.fakenewschecker.com/fake-news-source/american-news
+#
+# Biases: conspiratorial, inciteful, psuedoscience, right bias
+AmericanNews.com$
+
+# American Overlook
+# http://www.fakenewschecker.com/fake-news-source/american-overlook
+#
+# Biases: conspiratorial, political
+#
+# American Overlook publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americanoverlook.com$
+
+# American Patriot Daily
+# http://www.fakenewschecker.com/fake-news-source/american-patriot-daily
+#
+# Biases: conspiratorial, political
+#
+# American Patriot Daily publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americanpatriotdaily.com$
+
+# American Renaissance
+# http://www.fakenewschecker.com/fake-news-source/american-renaissance
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# American Renaissance Up publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+amren.com$
+
+# American Reviewer
+# http://www.fakenewschecker.com/fake-news-source/american-reviewer
+#
+# Biases: conspiratorial, political
+#
+# American Reviewer publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+americanreviewer.com$
+
+# American Today
+# http://www.fakenewschecker.com/fake-news-source/american-today
+#
+# Biases: conspiratorial, political
+#
+# American Today publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+truthpoliticsnews.com$
+
+# Angry Patriot
+# http://www.fakenewschecker.com/fake-news-source/angry-patriot
+#
+# Biases: conspiratorial, political
+#
+# Angry Patriot publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+www.angrypatriotmovement.com$
+
+# Anonymous
+# Not to be confused with We Are Anonymous.
+# http://www.fakenewschecker.com/fake-news-source/anonymous
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Anonymous publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+anonews.co$
+
+# Another Day in The Empire
+# http://www.fakenewschecker.com/fake-news-source/another-day-empire
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Another Day in The Empirepublishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+anotherdayintheempire.com$
+
+# Anti Media
+# "Why are we called Anti-Media if we are the media? The “Anti” in our name
+# does not mean we are against the media, we are simply against the current
+# mainstream paradigm. The current media, influenced by the industrial complex,
+# is a top-down authoritarian system of distribution—the opposite of what
+# Anti-Media aims to be."
+# http://www.fakenewschecker.com/fake-news-source/anti-media
+#
+# Biases: conspiratorial, editorial, political
+#
+# Anti Media publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+theantimedia.org$
+
+# Anti-War
+# http://www.fakenewschecker.com/fake-news-source/anti-war
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Anti-Warpublishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+www.antiwar.com$
+
+# Assassination Science
+# A site that bills itself as sticking to the "hard facts" in the assassination
+# of President John F. Kennedy.
+# http://www.fakenewschecker.com/fake-news-source/assassination-science
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Assassination Science Up publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+assassinationscience.com$
+
+# Awareness Act
+# http://www.fakenewschecker.com/fake-news-source/awareness-act
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Awareness Actpublishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+awarenessact.com$
+
+# AWD News
+# http://www.fakenewschecker.com/fake-news-source/awd-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# AWD Newspublishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+awdnews.com$
+
+# Bare Naked Islam
+# http://www.fakenewschecker.com/fake-news-source/bare-naked-islam
+#
+# Biases: conspiratorial, inciteful, political, right bias, war
+#
+# Bare Naked Islam Up publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+www.barenakedislam.com$
+
+# BB4SP
+# http://www.fakenewschecker.com/fake-news-source/bb4sp
+#
+# Biases: conspiratorial, political
+#
+# BB4SP publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+bb4sp.com$
+
+# Before It's News
+# http://www.fakenewschecker.com/fake-news-source/before-its-news
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+beforeitsnews.com$
+
+# Big Hairy News
+# worldnewsbureau.com redirects to this site.
+# http://www.fakenewschecker.com/fake-news-source/big-hairy-news
+#
+# Biases: conspiratorial, political
+#
+# Big Hairy News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+bighairynews.com$
+
+# Big Nugget News
+# http://www.fakenewschecker.com/fake-news-source/big-nugget-news
+#
+# Biases: conspiratorial, inciteful, political, right bias, war
+#
+# Big Nugget News Up publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+bignuggetnews.com$
+
+# Bipartisan Report
+# http://www.fakenewschecker.com/fake-news-source/bipartisan-report
+#
+# Biases: conspiratorial, left bias, political, psuedoscience
+#
+# Bipartisan Report publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+bipartisanreport.com$
+
+# BizPac Review
+# http://www.fakenewschecker.com/fake-news-source/bizpac-review
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# BizPac Review publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+bizpacreview.com$
+
+# Black Genocide
+# The New Jersey chapter of an African-American, evangelical, pro-life ministry
+# in the United States.
+# http://www.fakenewschecker.com/fake-news-source/black-genocide
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Black Genocidepublishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+blackgenocide.org$
+
+# Blacklisted News
+# http://www.fakenewschecker.com/fake-news-source/blacklisted-news
+#
+# Biases: conspiratorial, inciteful, political, right bias, war
+#
+# Blacklisted News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+blacklistednews.com$
+
+# Blasting News
+# "Blasting News is a news publisher totally fueled and curated by the crowd.
+# News are produced by delocalized contributors (Blasters). Every single news
+# is fact-checked and curated by a quality team of professionals. News are
+# distributed both by Blasters and by Social Blasters, a global team of digital
+# influencers selected through application and interviews. All the core
+# processes are managed by technology: e.g., homepages are handled by a
+# patent-pending algorithm without human intervention."
+# http://www.fakenewschecker.com/fake-news-source/blasting-news
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Blasting News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+blastingnews.com$
+
+# Blue Nation Review
+# http://www.fakenewschecker.com/fake-news-source/blue-nation-review
+#
+# Biases: conspiratorial, left bias, political
+#
+# Blue Nation Review publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+bluenationreview.com$
+
+# Breitbart News
+# Breitbart News is an admittedly biased news source with strong allegiances to
+# the ultraconservative and alt-right points of view. Breitbart News uses
+# hyperbole and sensationalism in headlines for clickbait. Often the headline
+# claims are outright lies. It is best to review and double check sources when
+# reading the articles on this site.
+# http://www.fakenewschecker.com/fake-news-source/breitbart-news
+#
+# Biases: political, right bias
+#
+# Breitbart News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+breitbart.com$
+
+# Canada Free Press
+# "Because without America, there is no free world."
+# http://www.fakenewschecker.com/fake-news-source/canada-free-press
+#
+# Biases: conspiratorial, political
+#
+# Canada Free Press publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+canadafreepress.com$
+
+# Center For Security Policy
+# A U.S. national security think tank specializing in decision briefs and press
+# releases on critical foreign policy and military defense matters. Site
+# includes an extensive subject area archive dating from 1988, including
+# abstracts.
+# http://www.fakenewschecker.com/fake-news-source/center-security-policy
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Center For Security Policy publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+centerforsecuritypolicy.org$
+
+# Channel 7 News
+# http://www.fakenewschecker.com/fake-news-source/channel-7-news
+#
+# Biases: conspiratorial, political
+#
+# Channel 7 News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+channel-7-news.com$
+
+# Christ Wire
+# "Espousing uncompromising conservative values that may shock unbelievers."
+# http://www.fakenewschecker.com/fake-news-source/christ-wire
+#
+# Biases:
+#
+# Christ Wire publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+ChristWire.org$
+
+# Christian Times Newspaper
+# http://www.fakenewschecker.com/fake-news-source/christian-times-newspaper
+#
+# Biases: conspiratorial, political
+#
+# Christian Times Newspaper publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+christiantimesnewspaper.com$
+
+# Civic Tribune
+# http://www.fakenewschecker.com/fake-news-source/civic-tribune
+#
+# Biases: political, right bias
+#
+# Civic Tribune publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+CivicTribune.com$
+
+# Clash Daily
+# http://www.fakenewschecker.com/fake-news-source/clash-daily
+#
+# Biases: conspiratorial, political, right bias
+#
+# Clash Daily publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+clashdaily.com$
+
+# Coast to Coast AM
+# http://www.fakenewschecker.com/fake-news-source/coast-coast-am
+#
+# Biases: conspiratorial, psuedoscience, right bias
+#
+# Coast to Coast AM publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+coasttocoastam.com$
+
+# Collective Evolution
+# "Collective Evolution (CE) creates content that engages us all to begin
+# thinking consciously about what it means to be a human on the planet. A
+# grassroots organization started in 2009, CE is now a popular alternative
+# media, production company and community outlet that gives others an
+# opportunity to expand their everyday way of thinking. CE’s content ranges
+# from writing to video to live events all with one common goal: to raise
+# awareness towards how our world truly functions and encourage change that
+# moves beyond it."
+# http://www.fakenewschecker.com/fake-news-source/collective-evolution
+#
+# Biases: conspiratorial, editorial, psuedoscience, right bias
+#
+# Collective Evolution publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+collective-evolution.com$
+
+# Collectively Conscious
+# http://www.fakenewschecker.com/fake-news-source/collectively-conscious
+#
+# Biases: conspiratorial, editorial, psuedoscience
+#
+# Collectively Conscious publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+collectivelyconscious.net$
+
+# Conscious Life News
+# http://www.fakenewschecker.com/fake-news-source/conscious-life-news
+#
+# Biases: conspiratorial, editorial, left bias, psuedoscience
+#
+# Conscious Life News publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+consciouslifenews.com$
+
+# Conservative Byte
+# http://www.fakenewschecker.com/fake-news-source/conservative-byte
+#
+# Biases: conspiratorial, political, right bias
+#
+# Conservative Byte publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativebyte.com$
+
+# Conservative Daily Post
+# http://www.fakenewschecker.com/fake-news-source/conservative-daily-post
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias, war
+#
+# Conservative Daily Post publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativedailypost.com$
+
+# Conservative Firing Line
+# http://www.fakenewschecker.com/fake-news-source/conservative-firing-line
+#
+# Biases: conspiratorial, political, right bias
+#
+# Conservative Firing Line publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativefiringline.com$
+
+# Conservative Frontline
+# http://www.fakenewschecker.com/fake-news-source/conservative-frontline
+#
+# Biases: conspiratorial, political
+#
+# Conservative Frontline publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativefrontline.com$
+
+# Conservative Infidel
+# http://www.fakenewschecker.com/fake-news-source/conservative-infidel
+#
+# Biases: conspiratorial, political
+#
+# Conservative Infidel publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativeinfidel.com$
+
+# Conservative Outfitters
+# http://www.fakenewschecker.com/fake-news-source/conservative-outfitters
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Conservative Outfitters publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativeoutfitters.com$
+
+# Conservative Papers
+# http://www.fakenewschecker.com/fake-news-source/conservative-papers
+#
+# Biases: conspiratorial, political
+#
+# Conservative Papers publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativepapers.com$
+
+# Conservative Refocus
+# "A news and opinion website focused on delivering conservative news and
+# original opinion pieces on current events."
+# http://www.fakenewschecker.com/fake-news-source/conservative-refocus
+#
+# Biases: conspiratorial, political
+#
+# Conservative Refocus publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativerefocus.com$
+
+# Conservative State
+# http://www.fakenewschecker.com/fake-news-source/conservative-state
+#
+# Biases: conspiratorial, political, right bias
+#
+# Conservative State publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativestate.com$
+
+# Conservative Tribune
+# http://www.fakenewschecker.com/fake-news-source/conservative-tribune
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Conservative Tribune publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conservativetribune.com$
+
+# Conspiracy Planet
+# http://www.fakenewschecker.com/fake-news-source/conspiracy-planet
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias, war
+#
+# Conspiracy Planet publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+conspiracyplanet.com$
+
+# Constitution Rising
+# http://www.fakenewschecker.com/fake-news-source/constitution-rising
+#
+# Biases: conspiratorial, political
+#
+# Constitution Rising publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+rickwells.us$
+
+# Countdown to Zero Time
+# wideawakeamerica.com
+# http://www.fakenewschecker.com/fake-news-source/countdown-zero-time
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias
+#
+# Countdown to Zero Time publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+countdowntozerotime.com$
+
+# Counter Current News
+# http://www.fakenewschecker.com/fake-news-source/counter-current-news
+#
+# Biases: conspiratorial, political
+#
+# Counter Current News publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+countercurrentnews.com$
+
+# Counter PsyOps
+# http://www.fakenewschecker.com/fake-news-source/counter-psyops
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Counter PsyOps publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+counterpsyops.com$
+
+# Cowger nation
+# http://www.fakenewschecker.com/fake-news-source/cowger-nation
+#
+# Biases: conspiratorial, political, right bias
+#
+# Cowger Nation publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+cowgernation.com$
+
+# Cream BMP
+# http://www.fakenewschecker.com/fake-news-source/cream-bmp
+#
+# Biases: editorial, political, right bias, special interest
+#
+# Cream BMP publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+creambmp.com$
+
+# Cronica Deportiva Politic
+# http://www.fakenewschecker.com/fake-news-source/cronica-deportiva-politic
+#
+# Biases: conspiratorial, political
+#
+# Cronica Deportiva Politic publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+cronicadeportiva.com/index.php/category/politic/
+
+# Daily Buzz Live
+# "Daily Buzz Live is your home for controversial, viral news. Get buzzed!"
+# http://www.fakenewschecker.com/fake-news-source/daily-buzz-live
+#
+# Biases:
+#
+# Daily Buzz Live publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dailybuzzlive.com$
+
+# Daily Headlines
+# http://www.fakenewschecker.com/fake-news-source/daily-headlines
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias, war
+#
+# Daily Headlines publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dailyheadlines.net$
+
+# Daily Occupation
+# http://www.fakenewschecker.com/fake-news-source/daily-occupation
+#
+# Biases: conspiratorial, political
+#
+# Daily Occupation publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dailyoccupation.com$
+
+# Dark Politricks
+# http://www.fakenewschecker.com/fake-news-source/dark-politricks
+#
+# Biases: conspiratorial, political
+#
+# Dark Politricks publishes information that cannot be validated and that may
+# be anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+darkpolitricks.com$
+
+# Darkmoon
+# http://www.fakenewschecker.com/fake-news-source/darkmoon
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Darkmoon publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+darkmoon.me$
+
+# David Duke.com
+# http://www.fakenewschecker.com/fake-news-source/david-dukecom
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, special interest
+#
+# David Duke.com publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+davidduke.com$
+
+# DC Clothesline
+# http://www.fakenewschecker.com/fake-news-source/dc-clothesline
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# DC Clothesline publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+DCClothesline.com$
+
+# DC Gazette
+# http://www.fakenewschecker.com/fake-news-source/dc-gazette
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# DC Gazette publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+DCGazette.com$
+
+# DC Whispers
+# http://www.fakenewschecker.com/fake-news-source/dc-whispers
+#
+# Biases: conspiratorial, political
+#
+# DC Whispers publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+dcwhispers.com$
+
+# Debunking Skeptics
+# http://www.fakenewschecker.com/fake-news-source/debunking-skeptics
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Debunking Skeptics publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+debunkingskeptics.com$
+
+# Dennis Michael Lynch
+# http://www.fakenewschecker.com/fake-news-source/dennis-michael-lynch
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Dennis Michael Lynch publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dennismichaellynch.com$
+
+# Departed
+# The popularity chart below shows the stats rising for the right wing
+# propaganda site at departed.com. the numbers stop on November 22 and a visit
+# to their home page shows a panel of sleazy ads.
+# http://www.fakenewschecker.com/fake-news-source/departed
+#
+# Biases: conspiratorial, political
+#
+# Departed publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+departed.co$
+
+# Disclose.tv
+# Disclose.tv is a fast growing multimedia and news hub dedicated to unusual
+# and unexplained phenomena as well as alternative topics that may be ignored,
+# denied or inandequatly covered within the mainstream media - the first and
+# already largest of its kind.
+# http://www.fakenewschecker.com/fake-news-source/disclosetv
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Disclose.tv publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+disclose.tv$
+
+# Disclosure Media
+# http://www.fakenewschecker.com/fake-news-source/disclosure-media
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Disclosure Media publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+disclosuremedia.net$
+
+# Downtrend
+# http://www.fakenewschecker.com/fake-news-source/downtrend
+#
+# Biases: conspiratorial, political
+#
+# Downtrend publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+downtrend.com$
+
+# Drudge Report
+# http://www.fakenewschecker.com/fake-news-source/drudge-report
+#
+# Biases:
+#
+# Drudge Report publishes information that cannot be validated and that may be
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+drudgereport.com$
+
+# Duffle Blog
+# "The Duffel Blog, The American Military's Most-Trusted News Source, is
+# updated daily with the latest news from the armed forces."
+# http://www.fakenewschecker.com/fake-news-source/duffle-blog
+#
+# Biases: editorial, political, right bias, special interest
+#
+# Duffle Blog publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+duffelblog.com$
+
+# Duh Progressive
+# "IT’S OVER (for now)!! ‘‘Duh Progressive’’ Surrenders, Satirical Site On Ice,
+# Suspended!" But readers can still look at archived articles on the site and
+# need to be aware that they are still satirical and misleading.
+# http://www.fakenewschecker.com/fake-news-source/duh-progressive
+#
+# Biases:
+#
+# Duh Progressive publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+duhprogressive.com$
+
+# Eagle Rising
+# http://www.fakenewschecker.com/fake-news-source/eagle-rising
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Eagle Rising publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+eaglerising.com$
+
+# Embols
+# http://www.fakenewschecker.com/fake-news-source/embols
+#
+# Biases: conspiratorial, political, psuedoscience, right bias
+#
+# Embols publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+embols.com$
+
+# End Of The American Dream
+# "The American Dream Is Becoming A Nightmare And Life As We Know It Is About
+# To Change"
+# http://www.fakenewschecker.com/fake-news-source/end-american-dream
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# End Of The American Dream publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+endoftheamericandream.com$
+
+# Ending The Fed
+# http://www.fakenewschecker.com/fake-news-source/ending-fed
+#
+# Biases: conspiratorial, political, psuedoscience, right bias
+#
+# Ending The Fed publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+endingthefed.com$
+
+# EndTime Ministries
+# http://www.fakenewschecker.com/fake-news-source/endtime-ministries
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# EndTime Ministries publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+endtime.com$
+
+# Executive Intelligence Review
+# "Investigative analysis of political issues."
+# http://www.fakenewschecker.com/fake-news-source/executive-intelligence-review
+#
+# Biases: conspiratorial, political, right bias
+#
+# Executive Intelligence Review publishes information that cannot be validated
+# and that is anti scientific fact. The information provided should be regarded
+# as speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+larouchepub.com$
+
+# F W Engdahl
+# http://www.fakenewschecker.com/fake-news-source/f-w-engdahl
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# F W Engdahl publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+oilgeopolitics.net$
+
+# Family Security Matters
+# http://www.fakenewschecker.com/fake-news-source/family-security-matters
+#
+# Biases: conspiratorial, political, right bias
+#
+# Family Security Matters publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+familysecuritymatters.org$
+
+# Federalist Press
+# "In an age when the founding principles of our country are being assailed by
+# those who seek to fundamentally transform our constitutional form of
+# government and the culture of liberty that it provides into a European style
+# socialist state, the editors feel a profound sense of duty to provide
+# analysis of political issues in a light favorable to constitutionality and
+# liberty."
+# http://www.fakenewschecker.com/fake-news-source/federalist-press
+#
+# Biases: conspiratorial, political
+#
+# Federalist Press publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+federalistpress.com$
+
+# Fellowship of the Minds
+# "In a time of universal deceit, telling the truth is a revolutionary act."
+# http://www.fakenewschecker.com/fake-news-source/fellowship-minds
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Fellowship of the Minds publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+fellowshipoftheminds.com$
+
+# FPRN Radio
+# "FPRN Radio Network is dedicated to bringing you the best in TRUE grass-roots
+# Liberty Talk Radio. The Freedom Phalanx Radio Network was born of activism."
+# http://www.fakenewschecker.com/fake-news-source/fprn-radio
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# FPRN Radio publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+fprnradio.com$
+
+# Freedom Daily
+# http://www.fakenewschecker.com/fake-news-source/freedom-daily
+#
+# Biases: conspiratorial, political
+#
+# Freedom Daily publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+freedomdaily.com$
+
+# Freedom Outpost
+# http://www.fakenewschecker.com/fake-news-source/freedom-outpost
+#
+# Biases: conspiratorial, political
+#
+# Freedom Outpost publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+freedomoutpost.com$
+
+# From the Trenches World Report
+# http://www.fakenewschecker.com/fake-news-source/trenches-world-report
+#
+# Biases: conspiratorial, inciteful, political, psuedoscience, right bias
+#
+# From the Trenches World Report publishes information that cannot be validated
+# and that is anti scientific fact. The information provided should be regarded
+# as speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+fromthetrenchesworldreport.com$
+
+# Gangster Government
+# http://www.fakenewschecker.com/fake-news-source/gangster-government
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Gangster Government publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+gangstergovernment.com$
+
+# Geller Report
+# "Political News, Commentary and the Global Jihad"
+# http://www.fakenewschecker.com/fake-news-source/geller-report
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# Geller Report publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+pamelageller.com$
+
+# Geo Engineering Watch
+# http://www.fakenewschecker.com/fake-news-source/geo-engineering-watch
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Geo Engineering Watch publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+geoengineeringwatch.org$
+
+# Global Research
+# http://www.fakenewschecker.com/fake-news-source/global-research
+#
+# Biases: conspiratorial, editorial, psuedoscience, right bias
+#
+# Global Research publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+globalresearch.ca$
+
+# GOP the Daily Dose
+# http://www.fakenewschecker.com/fake-news-source/gop-daily-dose
+#
+# Biases: conspiratorial, political
+#
+# GOP the Daily Dose publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+gopthedailydose.com$
+
+# Government Slaves
+# We are a news and information aggregate of the days worthy stories. Based in
+# Southern Florida we cover issues the corporate media wont. You may say
+# conspiracy but we say truth. As the main stream media continues to be in
+# decline, sites like ours continue to grow. We have no party
+# affiliation,investors,corporate funding or special interests groups
+# influencing us. Our main goal is to bring under reported stories to the
+# forefront. Corporate media continues to insult you with lies and dis info.
+# Hopefully when you read our site you wont feel that way. We have nothing to
+# gain by posting these stories. We just hope they will influence you in the
+# daily battle of good verses evil. What side are you on?
+# http://www.fakenewschecker.com/fake-news-source/government-slaves
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias
+#
+# Government Slaves publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+govtslaves.info$
+
+# Gulag Bound
+# http://www.fakenewschecker.com/fake-news-source/gulag-bound
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+gulagbound.com$
+
+# Hang The Bankers
+# http://www.fakenewschecker.com/fake-news-source/hang-bankers
+#
+# Biases: conspiratorial, editorial, right bias
+#
+# Hang The Bankers publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+hangthebankers.com$
+
+# Health Impact News
+# http://www.fakenewschecker.com/fake-news-source/health-impact-news
+#
+# Biases: conspiratorial, political, psuedoscience, right bias
+#
+# Health Impact News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+healthimpactnews.com$
+
+# Henry Makow
+# "Henry Makow's official web site. Exposing Feminism and the New World Order"
+# http://www.fakenewschecker.com/fake-news-source/henry-makow
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Henry Makow publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+henrymakow.com$
+
+# Herman Cain
+# http://www.fakenewschecker.com/fake-news-source/herman-cain
+#
+# Biases: conspiratorial, political
+#
+# Herman Cain publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+caintv.com$
+
+# Humans are Free
+# http://www.fakenewschecker.com/fake-news-source/humans-are-free
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Humans are Free publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+humansarefree.com$
+
+# I Have the Truth
+# http://www.fakenewschecker.com/fake-news-source/i-have-truth
+#
+# Biases: conspiratorial, inciteful, political, right bias
+#
+# I Have the Truth publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+ihavethetruth.com$
+
+# Illuminati News
+# Visitors to this website will have a difficult time even accessing the
+# content because of the barrage of advertising overlays and popup ads (in
+# spite of adblockers). Beware.
+# http://www.fakenewschecker.com/fake-news-source/illuminati-news
+#
+# Biases: conspiratorial, editorial, inciteful, psuedoscience, right bias, war
+#
+# Illuminati News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+illuminati-news.com$
+
+# In Trend Today
+# http://www.fakenewschecker.com/fake-news-source/trend-today
+#
+# Biases: conspiratorial, political, right bias
+#
+# In Trend Today publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+intrendtoday.com$
+
+# Infinite Unknown
+# http://www.fakenewschecker.com/fake-news-source/infinite-unknown
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Infinite Unknown publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+infiniteunknown.net$
+
+# Infostormer
+# http://www.fakenewschecker.com/fake-news-source/infostormer
+#
+# Biases: conspiratorial, political
+#
+# Infostormer publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+Infostormer.com$
+
+# Infowars
+# http://www.fakenewschecker.com/fake-news-source/infowars
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Infowars publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+infowars.com$
+
+# IntelliHub
+# Independent News For Independent Minds
+# http://www.fakenewschecker.com/fake-news-source/intellihub
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# IntelliHub publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+intellihub.com$
+
+# Intrepid Report
+# http://www.fakenewschecker.com/fake-news-source/intrepid-report
+#
+# Biases: editorial, political, right bias
+#
+# Intrepid Report publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+intrepidreport.com$
+
+# Investment Watch Blog
+# http://www.fakenewschecker.com/fake-news-source/investment-watch-blog
+#
+# Biases: editorial, political, right bias
+#
+# Investment Watch Blog publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+investmentwatchblog.com$
+
+# Israel Islam and End Times
+# http://www.fakenewschecker.com/fake-news-source/israel-islam-and-end-times
+#
+# Biases: conspiratorial, inciteful, political, right bias
+#
+# Israel Islam and End Times publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+israelislamandendtimes.com$
+
+# iTag Live
+# "iTag: Live brings you today's news tomorrow. After you think you know the
+# half of it, we creep back in and tell you the rest of the story we cooked up."
+# http://www.fakenewschecker.com/fake-news-source/itag-live
+#
+# Biases: editorial, political, right bias
+#
+# iTag Live publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+itaglive.com$
+
+# Jan Morgan Media
+# http://www.fakenewschecker.com/fake-news-source/jan-morgan-media
+#
+# Biases: conspiratorial, political, right bias
+#
+# Jan Morgan Media publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+janmorganmedia.com$
+
+# Jews News
+# http://www.fakenewschecker.com/fake-news-source/jews-news
+#
+# Biases: conspiratorial, political
+#
+# Jews News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+jewsnews.co.il$
+
+# Jones Report
+# http://www.fakenewschecker.com/fake-news-source/jones-report
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# Jones Report publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+jonesreport.com$
+
+# King World News
+# "King World News comments are an expression of opinion. While we believe our
+# statements to be true, they always depend on the reliability of credible
+# sources. We recommend that you consult with a licensed, qualified
+# professional before making any investment decisions.
+# http://www.fakenewschecker.com/fake-news-source/king-world-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# King World News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+kingworldnews.com$
+
+# Lew Rockwell
+# "An anti-state/pro-market site on the net run by the president of the Ludwig
+# von Mises Institute. Updated 6 days a week."
+# http://www.fakenewschecker.com/fake-news-source/lew-rockwell
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Lew Rockwell publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+lewrockwell.com$
+
+# Liberal Darkness
+# http://www.fakenewschecker.com/fake-news-source/liberal-darkness
+#
+# Biases: conspiratorial, political, right bias
+#
+# Liberal Darkness publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+liberaldarkness.com$
+
+# Liberals Unite
+# http://www.fakenewschecker.com/fake-news-source/liberals-unite
+#
+# Biases: editorial, left bias, political, special interest
+#
+# Liberals Unite publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+samuel-warde.com$
+
+# Liberty Blitzkrieg
+# "The only way to deal with an unfree world is to become so absolutely free
+# that your very existence is an act of rebellion."
+# http://www.fakenewschecker.com/fake-news-source/liberty-blitzkrieg
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Liberty Blitzkrieg publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertyblitzkrieg.com$
+
+# Liberty Movement Radio
+# "Liberty Movement Radio is your place for freedom themed radio 24/7. Tune in
+# today to get all the latest news and liberty information! Listen online to
+# Liberty Movement Radio in United States. Liberty Minded Radio including
+# discussions about Liberty, NWO, Voluntaryism, Anarchy, Marijuana, ..."
+# http://www.fakenewschecker.com/fake-news-source/liberty-movement-radio
+#
+# Biases: political, right bias
+#
+# Liberty Movement Radio publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertymovementradio.com$
+
+# Liberty News
+# http://www.fakenewschecker.com/fake-news-source/liberty-news
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Liberty News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+libertynews.com$
+
+# Liberty Talk FM
+# "While the primary focus is on news, politics, and government, Liberty Talk FM
+# also regularly features discussions on the economy, privacy enhancing
+# technology, emerging and competing crypto-currencies such as Bitcoin,
+# Litecoin, Namecoin, independent musicians, as well as health & personal
+# relationships.
+#
+# We hope you enjoy having an outlet to hear folks promoting a
+# non-interventionist foreign policy, the restoration of sound money, and the
+# reclamation of humanity’s Natural Rights over the old-media’s stale
+# talking-points to wit seek to salvage the crumbling institutions of STATE, who
+# are now more than ever recognized as an absolute cancer upon mankind, and the
+# antithesis of all those who favor Liberty, prosperity, and peace."
+# http://www.fakenewschecker.com/fake-news-source/liberty-talk-fm
+#
+# Biases: editorial, political, right bias
+#
+# Liberty Talk FM publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertytalk.fm$
+
+# Liberty Unyielding
+# http://www.fakenewschecker.com/fake-news-source/liberty-unyielding
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Liberty Unyielding publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertyunyielding.com$
+
+# Liberty Videos
+# http://www.fakenewschecker.com/fake-news-source/liberty-videos
+#
+# Biases:
+#
+# Liberty Videos publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertyvideos.com$
+
+# Liberty Writers News
+# http://www.fakenewschecker.com/fake-news-source/liberty-writers-news
+#
+# Biases: conspiratorial, political
+#
+# Liberty Writers News publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+libertywritersnews.com$
+
+# LifeZette
+# Laura Ingraham, Press Secretary contender for POETUS Donald Trump, owns the
+# Ingraham Media Group, that runs the virulent site called “LifeZette”.
+#
+# "“LifeZette” is basically the halfway point between Fox News’ sensationalism
+# and Alex Jones insanity; it promotes overhyped, fearmongering stories with
+# barely an inch of truth to them... and should be avoided at all costs."
+# http://www.fakenewschecker.com/fake-news-source/lifezette
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# LifeZette publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+lifezette.com$
+
+# Liftable
+# http://www.fakenewschecker.com/fake-news-source/liftable
+#
+# Biases: editorial, psuedoscience, special interest
+#
+# Liftable publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+www.liftable.com$
+
+# Mad World News
+# http://www.fakenewschecker.com/fake-news-source/mad-world-news
+#
+# Biases: conspiratorial, political
+#
+# Mad World News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+madworldnews.com$
+
+# Make America Great Today
+# "The only way to deal with an unfree world is to become so absolutely free
+# that your very existence is an act of rebellion."
+# http://www.fakenewschecker.com/fake-news-source/make-america-great-today
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Make America Great Today publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+makeamericagreattoday.com$
+
+# Militia News
+# http://www.fakenewschecker.com/fake-news-source/militia-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Militia News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+www.militianews.com$
+
+# Mirror
+# http://www.fakenewschecker.com/fake-news-source/mirror
+#
+# Biases: editorial, left bias, political
+#
+# Mirror publishes information from a left biased position with an advocacy for
+# liberal causes. The editorial content and headlines are often loaded with
+# strong words to appeal to emotions and stereotypes. They may publish
+# misleading reports, cite unverified sources, reference bogus reports and omit
+# information that may damage their cause. The information provided should be
+# regarded as speculative opinion and/or propaganda. It is among the most
+# untrustworthy sources in the media.
+mirror.co.uk$
+
+# Moon of Alabama
+# http://www.fakenewschecker.com/fake-news-source/moon-alabama
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Moon of Alabama publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+moonofalabama.org$
+
+# MPI Daily Magazine
+# http://www.fakenewschecker.com/fake-news-source/mpi-daily-magazine
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# MPI Daily Magazine publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+mpidailymagazine.com$
+
+# Mr. Conservative
+# http://www.fakenewschecker.com/fake-news-source/mr-conservative
+#
+# Biases: conspiratorial, political
+#
+# Mr. Conservative publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+mrconservative.com$
+
+# MyZone Today
+# http://www.fakenewschecker.com/fake-news-source/myzone-today
+#
+# Biases: conspiratorial, political
+#
+# MyZone Today publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+myzonetoday.com$
+
+# Nation One News
+# http://www.fakenewschecker.com/fake-news-source/nation-one-news
+#
+# Biases: conspiratorial, inciteful, political, right bias
+#
+# Nation One News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+nationonenews.com$
+
+# National Insider Politics
+# http://www.fakenewschecker.com/fake-news-source/national-insider-politics
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# National Insider Politics publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+nationalinsiderpolitics.com$
+
+# News Busters
+# "Welcome to NewsBusters, a project of the Media Research Center (MRC),
+# America’s leading media watchdog in documenting, exposing and neutralizing
+# liberal media bias."
+# http://www.fakenewschecker.com/fake-news-source/news-busters
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias, special interest
+#
+# News Busters publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+newsbusters.org$
+
+# News Target
+# http://www.fakenewschecker.com/fake-news-source/news-target
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# News Target publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+newstarget.com$
+
+# News Wire 24
+# http://www.fakenewschecker.com/fake-news-source/news-wire-24
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# News Wire 24 publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+newswire-24.com$
+
+# News With Views
+# http://www.fakenewschecker.com/fake-news-source/news-views
+#
+# Biases: conspiratorial, political
+#
+# News With Views publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+newswithviews.com$
+
+# No Dis Info
+# http://www.fakenewschecker.com/fake-news-source/no-dis-info
+#
+# Biases: conspiratorial, editorial, inciteful, political
+#
+# No Dis Info publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+nodisinfo.com$
+
+# Not Allowed To
+# http://www.fakenewschecker.com/fake-news-source/not-allowed
+#
+# Biases: conspiratorial, inciteful, political, psuedoscience
+#
+# Not Allowed To publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+notallowedto.com$
+
+# Now The End Begins
+# http://www.fakenewschecker.com/fake-news-source/now-end-begins
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Now The End Begins publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+nowtheendbegins.com$
+
+# Online Conservative Press
+# http://www.fakenewschecker.com/fake-news-source/online-conservative-press
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Online Conservative Press publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+onlineconservativepress.com$
+
+# Pak Alert Press
+# http://www.fakenewschecker.com/fake-news-source/pak-alert-press
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Pak Alert Press publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+pakalertpress.com$
+
+# Pat Dollard
+# http://www.fakenewschecker.com/fake-news-source/pat-dollard
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Pat Dollard publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+patdollard.com$
+
+# Patriot Update
+# http://www.fakenewschecker.com/fake-news-source/patriot-update
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Patriot Update publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+patriotupdate.com$
+
+# Political Ears
+# http://www.fakenewschecker.com/fake-news-source/political-ears
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Political Ears publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+newsmutiny.com$
+
+# Political Reviewer
+# http://www.fakenewschecker.com/fake-news-source/political-reviewer
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Political Reviewer publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+politicalreviewer.com$
+
+# Political Vel Craft
+# http://www.fakenewschecker.com/fake-news-source/political-vel-craft
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Political Vel Craft publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+politicalvelcraft.org$
+
+# Pravda Report
+# http://www.fakenewschecker.com/fake-news-source/pravda-report
+#
+# Biases: conspiratorial, left bias, political
+#
+# Pravda Report publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+pravdareport.com$
+
+# Press TV
+# "Iran's television network, broadcasting in English round-the-clock. Based in
+# Tehran."
+# http://www.fakenewschecker.com/fake-news-source/press-tv
+#
+# Biases: conspiratorial, political, right bias
+#
+# Press TV publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+presstv.ir$
+
+# Prison Planet
+# http://www.fakenewschecker.com/fake-news-source/prison-planet
+#
+# Biases: conspiratorial, editorial, psuedoscience, right bias
+#
+# Prison Planet publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+prisonplanet.com$
+
+# Prntly | America's Top News
+# http://www.fakenewschecker.com/fake-news-source/prntly-americas-top-news-site
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Prntly | America's Top News Site publishes information that cannot be
+# validated and that is anti scientific fact. The information provided should
+# be regarded as speculative opinion or propaganda and cannot be substantiated
+# by fact or evidence. It is among the most untrustworthy sources in the media.
+prntly.com$
+
+# Proud Conservative
+# "We are a blog, not a news source. We write articles and editorials that
+# matter to the conservative community and only use reliable, journalistic
+# sources as our foundation, and we provide links to all our original sources
+# within the text of our articles.
+# http://www.fakenewschecker.com/fake-news-source/proud-conservative
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Proud Conservative publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+proudcons.com$
+
+# Q Political
+# http://www.fakenewschecker.com/fake-news-source/q-political
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Q Political publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+qpolitical.com$
+
+# Read Conservatives
+# http://www.fakenewschecker.com/fake-news-source/read-conservatives
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Read Conservatives publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+readconservatives.news$
+
+# Reagan Coalition
+# http://www.fakenewschecker.com/fake-news-source/reagan-coalition
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Reagan Coalition publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+reagancoalition.com$
+
+# Real News Right Now
+# "The truth behind the story everyone is talking about."
+# http://www.fakenewschecker.com/fake-news-source/real-news-right-now
+#
+# Biases: editorial
+#
+# Real News Right Now publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+realnewsrightnow.com$
+
+# Red Flag News
+# http://www.fakenewschecker.com/fake-news-source/red-flag-news
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Red Flag News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+redflagnews.com$
+
+# Red State Watcher
+# TruthFeed
+# http://www.fakenewschecker.com/fake-news-source/red-state-watcher
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Red State Watcher publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+redstatewatcher.com$
+
+# Rense
+# http://www.fakenewschecker.com/fake-news-source/rense
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Rense publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+rense.com$
+
+# Revos.2040
+# http://www.fakenewschecker.com/fake-news-source/revos2040
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Revos.2040 publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+revolutions2040.com$
+
+# Right Alerts
+# http://www.fakenewschecker.com/fake-news-source/right-alerts
+#
+# Biases: conspiratorial, political, right bias
+#
+# Right Alerts publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+rightalerts.com$
+
+# Right Wing News
+# http://www.fakenewschecker.com/fake-news-source/right-wing-news
+#
+# Biases: conspiratorial, political
+#
+# Right Wing News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+rightwingnews.com$
+
+# Rile News
+# "Headlines guaranteed to rile someone up. ..."
+# http://www.fakenewschecker.com/fake-news-source/rile-news
+#
+# Biases:
+#
+# Rile News publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+rilenews.com$
+
+# RT - Russia Today
+# http://www.fakenewschecker.com/fake-news-source/rt-russia-today
+#
+# Biases: conspiratorial, left bias, political
+#
+# RT - Russia Today  publishes information from a left biased position with an
+# advocacy for liberal causes. The editorial content and headlines are often
+# loaded with strong words to appeal to emotions and stereotypes. They may
+# publish misleading reports, cite unverified sources, reference bogus reports
+# and omit information that may damage their cause. The information provided
+# should be regarded as speculative opinion and/or propaganda. It is among the
+# most untrustworthy sources in the media.
+rt.com$
+
+# Rumor Mill News
+# http://www.fakenewschecker.com/fake-news-source/rumor-mill-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Rumor Mill News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+rumormillnews.com$
+
+# Ruptly
+# "Ruptly is an international video news agency headquartered in Berlin,
+# Germany. Launched in 2012 it is a part of the same media family as the
+# Emmy-nominated global news network RT"
+# http://www.fakenewschecker.com/fake-news-source/ruptly
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Ruptly publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+ruptly.tv$
+
+# Russia Direct
+# "Russia Direct is a publication that experts and senior decision makers rely
+# on to debate and understand Russia's relationship with the world and the US
+# in particular. Founded in 2013, Russia Direct features original reporting as
+# well as fresh writing from a wide variety of experts from both Russia and
+# around the world who deliver insight often missing from today's media
+# landscape."
+# http://www.fakenewschecker.com/fake-news-source/russia-direct
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Russia Direct publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+russia-direct.org$
+
+# Secrets of The Fed
+# http://www.fakenewschecker.com/fake-news-source/secrets-fed
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Secrets of The Fed publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+secretsofthefed.com$
+
+# Sheep Killers
+# http://www.fakenewschecker.com/fake-news-source/sheep-killers
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, special interest
+#
+# Sheep Killers publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+sheepkillers.com$
+
+# Shoebat
+# http://www.fakenewschecker.com/fake-news-source/shoebat
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, special interest
+#
+# Shoebat publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+shoebat.com$
+
+# SHTF Plan
+# http://www.fakenewschecker.com/fake-news-source/shtf-plan
+#
+# Biases: conspiratorial, political
+#
+# SHTF Plan publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+shtfplan.com$
+
+# Signs of The Times
+# "The World for People who Think. Featuring independent, unbiased, alternative
+# news and commentary on world events."
+# http://www.fakenewschecker.com/fake-news-source/signs-times
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# Signs of The Times publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+sott.net$
+
+# Skeptiko
+# http://www.fakenewschecker.com/fake-news-source/skeptiko
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, special interest
+#
+# Skeptiko publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+skeptiko.com$
+
+# Sputnik News
+# From sputnik news.com website is this description about themselves:
+# http://www.fakenewschecker.com/fake-news-source/sputnik-news
+#
+# Biases: conspiratorial, inciteful, political, right bias
+#
+# Sputnik Newspublishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+sputniknews.com$
+
+# Storm Clouds Gathering
+# http://www.fakenewschecker.com/fake-news-source/storm-clouds-gathering
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, special interest
+#
+# Storm Clouds Gathering publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+stormcloudsgathering.com$
+
+# Subject: Politics
+# http://www.fakenewschecker.com/fake-news-source/subject-politics
+#
+# Biases: conspiratorial, political, right bias
+#
+# Subject: Politics publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+subjectpolitics.com$
+
+# Supreme Patriot
+# http://www.fakenewschecker.com/fake-news-source/supreme-patriot
+#
+# Biases: conspiratorial, political
+#
+# Supreme Patriot publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+supremepatriot.com$
+
+# The American Independent
+# http://www.fakenewschecker.com/fake-news-source/american-independent
+#
+# Biases: conspiratorial, political
+#
+# The American Independent publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+theamericanindependent.wordpress.com$
+
+# The Boston Tribune
+# http://www.fakenewschecker.com/fake-news-source/boston-tribune
+#
+# Biases: conspiratorial, editorial, political
+#
+# The Boston Tribune publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thebostontribune.com$
+
+# The Common Sense Show
+# http://www.fakenewschecker.com/fake-news-source/common-sense-show
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# The Common Sense Show publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thecommonsenseshow.com$
+
+# The Controversial Files
+# Mostly read in Spain and the Philippines.
+# http://www.fakenewschecker.com/fake-news-source/controversial-files
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# The Controversial Files publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thecontroversialfiles.net$
+
+# The Corbett Report
+# http://www.fakenewschecker.com/fake-news-source/corbett-report
+#
+# Biases: conspiratorial, political
+#
+# The Corbett Report publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+corbettreport.com$
+
+# The Daily Caller
+# http://www.fakenewschecker.com/fake-news-source/daily-caller
+#
+# Biases: conspiratorial, political
+#
+# The Daily Caller publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dailycaller.com$
+
+# The Daily Sheeple
+# http://www.fakenewschecker.com/fake-news-source/daily-sheeple
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# The Daily Sheeple publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thedailysheeple.com$
+
+# The Daily Stormer
+# The Daily Stormer website tagline reads, "America's #1 Most -Trusted
+# Republican News Source"
+# http://www.fakenewschecker.com/fake-news-source/daily-stormer
+#
+# Biases: conspiratorial, inciteful, political, right bias
+#
+# The Daily Stormer publishes information that cannot be validated and that may
+# be anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+dailystormer.com$
+
+# The Duran
+# http://www.fakenewschecker.com/fake-news-source/duran
+#
+# Biases: conspiratorial, political
+#
+# The Duran publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+theduran.com$
+
+# The European Union Times
+# http://www.fakenewschecker.com/fake-news-source/european-union-times
+#
+# Biases: conspiratorial, political
+#
+# The European Union Times publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+eutimes.net$
+
+# The Event Chronicle
+# http://www.fakenewschecker.com/fake-news-source/event-chronicle
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, special interest
+#
+# The Event Chronicle publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+theeventchronicle.com$
+
+# The Federalist Papers
+# http://www.fakenewschecker.com/fake-news-source/federalist-papers
+#
+# Biases: conspiratorial, political
+#
+# The Federalist Papers publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thefederalistpapers.org$
+
+# The Forbidden Knowledge
+# http://www.fakenewschecker.com/fake-news-source/forbidden-knowledge
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, special interest
+#
+# The Forbidden Knowledge publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+theforbiddenknowledge.com$
+
+# The Fourth Revolutionary War
+# http://www.fakenewschecker.com/fake-news-source/fourth-revolutionary-war
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# The Fourth Revolutionary War publishes information that cannot be validated
+# and that is anti scientific fact. The information provided should be regarded
+# as speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+4threvolutionarywar.wordpress.com$
+
+# The Free Patriot
+# http://www.fakenewschecker.com/fake-news-source/free-patriot
+#
+# Biases: conspiratorial, political
+#
+# The Free Patriot publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thefreepatriot.org$
+
+# The Gateway Pundit
+# http://www.fakenewschecker.com/fake-news-source/gateway-pundit
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# The Gateway Pundit publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thegatewaypundit.com$
+
+# The Greanville Post
+# "Anti-Imperialist Tool"
+# http://www.fakenewschecker.com/fake-news-source/greanville-post
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# The Greanville Post publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+greanvillepost.com$
+
+# The Internet Chronicle
+# http://www.fakenewschecker.com/fake-news-source/internet-chronicle
+#
+# Biases:
+#
+# The Internet Chronicle publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+chronicle.su$
+
+# The Knights Party
+# http://www.fakenewschecker.com/fake-news-source/knights-party
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# The Knights Party publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+kkk.com$
+
+# The Last Great Stand
+# http://www.fakenewschecker.com/fake-news-source/last-great-stand
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# The Last Great Stand publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thelastgreatstand.com$
+
+# The Liberty Beacon
+# http://www.fakenewschecker.com/fake-news-source/liberty-beacon
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, special interest
+#
+# The Liberty Beacon publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thelibertybeacon.com$
+
+# The Mind Unleashed
+# http://www.fakenewschecker.com/fake-news-source/mind-unleashed
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, special interest
+#
+# The Mind Unleashed publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+themindunleashed.org$
+
+# The Muslim Issue
+# http://www.fakenewschecker.com/fake-news-source/muslim-issue
+#
+# Biases: conspiratorial, political
+#
+# The Muslim Issue publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+themuslimissue.wordpress.com$
+
+# The New Inquiry
+# http://www.fakenewschecker.com/fake-news-source/new-inquiry
+#
+# Biases: conspiratorial, political, psuedoscience
+#
+# The New Inquiry publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thenewinquiry.com$
+
+# The Point
+# http://www.fakenewschecker.com/fake-news-source/point
+#
+# Biases: conspiratorial, political
+#
+# The Point publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+westernjournalism.com/thepoint/
+
+# The Political Cult
+# http://www.fakenewschecker.com/fake-news-source/political-cult
+#
+# Biases: conspiratorial, political
+#
+# The Political Cult publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+politicalcult.com$
+
+# The Political Insider
+# http://www.fakenewschecker.com/fake-news-source/political-insider
+#
+# Biases: conspiratorial, political
+#
+# The Political Insider publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thepoliticalinsider.com$
+
+# The Real Strategy
+# http://www.fakenewschecker.com/fake-news-source/real-strategy
+#
+# Biases: conspiratorial, political
+#
+# The Real Strategy publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+therealstrategy.com$
+
+# The Rightists
+# http://www.fakenewschecker.com/fake-news-source/rightists
+#
+# Biases: conspiratorial, political
+#
+# The Rightists publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+therightists.com$
+
+# The Run Down Live
+# "Milwaukee's Alternative Free Press News"
+# http://www.fakenewschecker.com/fake-news-source/run-down-live
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# The RunDown Live publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+therundownlive.com$
+
+# The Truth Division
+# http://www.fakenewschecker.com/fake-news-source/truth-division
+#
+# Biases: conspiratorial, political
+#
+# The Truth Division publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thetruthdivision.com$
+
+# The Truthseeker
+# http://www.fakenewschecker.com/fake-news-source/truthseeker
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience
+#
+# The Truthseeker publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thetruthseeker.co.uk$
+
+# The US Patriot
+# http://www.fakenewschecker.com/fake-news-source/us-patriot
+#
+# Biases:
+theuspatriot.com$
+
+# The Vigilant Citizen
+# "Underground World News ~ Bringing You World Wide News the Mainstream Media
+# Don’t & Won’t Cover !"
+# http://www.fakenewschecker.com/fake-news-source/vigilant-citizen
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# The Vigilant Citizen publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+vigilantcitizen.com$
+
+# The Washington Free Beacon
+# http://www.fakenewschecker.com/fake-news-source/washington-free-beacon
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# The Washington Free Beacon publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+freebeacon.com$
+
+# The Watch Towers
+# http://www.fakenewschecker.com/fake-news-source/watch-towers
+#
+# Biases: conspiratorial, political
+#
+# The Watch Towers publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+thewatchtowers.com$
+
+# Three Percenter Nation
+# http://www.fakenewschecker.com/fake-news-source/three-percenter-nation
+#
+# Biases: conspiratorial, political
+#
+# Three Percenter Nation publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+threepercenternation.com$
+
+# Top Right News
+# "All the News the Left Won't Print"
+# http://www.fakenewschecker.com/fake-news-source/top-right-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Top Right News publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+toprightnews.com$
+
+# TopInfo Post
+# http://www.fakenewschecker.com/fake-news-source/topinfo-post
+#
+# Biases: conspiratorial, editorial, inciteful, political, war
+#
+# TopInfo Post publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+TopInfoPost.com$
+
+# True Pundit
+# http://www.fakenewschecker.com/fake-news-source/true-pundit
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# True Pundit publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+truepundit.com$
+
+# Truth and Action
+# http://www.fakenewschecker.com/fake-news-source/truth-and-action
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Truth and Action publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+truthandaction.org$
+
+# Truth Broadcast Network
+# http://www.fakenewschecker.com/fake-news-source/truth-broadcast-network
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Truth Broadcast Network publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+truthbroadcastnetwork.com$
+
+# Truth Feed
+# http://www.fakenewschecker.com/fake-news-source/truth-feed
+#
+# Biases: conspiratorial, political
+#
+# Truth Feed publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+truthfeed.com$
+
+# Truth Frequency Radio
+# http://www.fakenewschecker.com/fake-news-source/truth-frequency-radio
+#
+# Biases:
+truthfrequencyradio.com$
+
+# Truth Kings
+# http://www.fakenewschecker.com/fake-news-source/truth-kings
+#
+# Biases: conspiratorial, political
+#
+# Truth Kings publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+truthkings.com$
+
+# Twitchy
+# http://www.fakenewschecker.com/fake-news-source/twitchy
+#
+# Biases: conspiratorial, political, psuedoscience
+#
+# Twitchy publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+twitchy.com$
+
+# Uncle Sams Misguided Children
+# http://www.fakenewschecker.com/fake-news-source/uncle-sams-misguided-children
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# Uncle Sams Misguided Children publishes information that cannot be validated
+# and that is anti scientific fact. The information provided should be regarded
+# as speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+unclesamsmisguidedchildren.com$
+
+# Underground World News
+# "Underground World News ~ Bringing You World Wide News the Mainstream Media
+# Don’t & Won’t Cover !"
+# http://www.fakenewschecker.com/fake-news-source/underground-world-news
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Underground World News publishes information that cannot be validated and
+# that is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+undergroundworldnews.com$
+
+# US Advisor
+# http://www.fakenewschecker.com/fake-news-source/us-advisor
+#
+# Biases: conspiratorial, political
+#
+# US Advisor publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+ushealthyadvisor.com$
+
+# US Chronicle
+# http://www.fakenewschecker.com/fake-news-source/us-chronicle
+#
+# Biases: conspiratorial, political
+#
+# US Chronicle publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+uschronicle.com$
+
+# US Politics Live
+# http://www.fakenewschecker.com/fake-news-source/us-politics-live
+#
+# Biases: conspiratorial, political
+#
+# US Politics Live publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+uspoliticslive.com$
+
+# USA Hitman
+# "The best conspiracy theories on the web.. UFOs, Martial Law, Big Brother,
+# Top Secret Projects, Police State and Much More! We respect you Freedom of
+# Speech.. Please use our forums to express your opinion about whats happening
+# all around the world. We only have interesting information which is gathered
+# from many different websites for the purpose of spreading he truth.."
+# http://www.fakenewschecker.com/fake-news-source/usa-hitman
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias
+#
+# USA Hitman publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+usahitman.com$
+
+# USA News Insider
+# http://www.fakenewschecker.com/fake-news-source/usa-news-insider
+#
+# Biases: conspiratorial, political
+#
+# USA News Insider publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+usanewsinsider.com$
+
+# USA Newsflash
+# http://www.fakenewschecker.com/fake-news-source/usa-newsflash
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# USA Newsflash publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+usanewsflash.com$
+
+# USA Supreme
+# http://www.fakenewschecker.com/fake-news-source/usa-supreme
+#
+# Biases: conspiratorial, political, psuedoscience
+#
+# USA Supreme publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+usasupreme.com$
+
+# Veterans Today
+# http://www.fakenewschecker.com/fake-news-source/veterans-today
+#
+# Biases: conspiratorial, editorial, inciteful, political, psuedoscience, right bias, war
+#
+# Veterans Today publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+veteranstoday.com$
+
+# Viral Liberty
+# http://www.fakenewschecker.com/fake-news-source/viral-liberty
+#
+# Biases: conspiratorial, political
+#
+# Viral Liberty publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+viralliberty.com$
+
+# Walid Shoebat
+# http://www.fakenewschecker.com/fake-news-source/walid-shoebat
+#
+# Biases: conspiratorial, political
+#
+# Walid Shoebat publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+shoebat.com$
+
+# Washington Examiner
+# http://www.fakenewschecker.com/fake-news-source/washington-examiner
+#
+# Biases: conspiratorial, political, right bias
+#
+# Washington Examiner publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+washingtonexaminer.com$
+
+# We Are Change
+# http://www.fakenewschecker.com/fake-news-source/we-are-change
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# We Are Change publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+wearechange.org$
+
+# WebDaily
+# http://www.fakenewschecker.com/fake-news-source/webdaily
+#
+# Biases: conspiratorial, political
+#
+# WebDaily publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+webdaily.com$
+
+# What Does It Mean
+# http://www.fakenewschecker.com/fake-news-source/what-does-it-mean
+#
+# Biases: conspiratorial, editorial, political, psuedoscience, right bias
+#
+# What Does It Mean publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+whatdoesitmean.com$
+
+# What Really Happened
+# http://www.fakenewschecker.com/fake-news-source/what-really-happened
+#
+# Biases: conspiratorial, political, psuedoscience
+#
+# What Really Happened publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+whatreallyhappened.com$
+
+# White Power
+# http://www.fakenewschecker.com/fake-news-source/white-power
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, war
+#
+# White Power publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+whitepower.com$
+
+# Wit Science
+# http://www.fakenewschecker.com/fake-news-source/wit-science
+#
+# Biases:
+witscience.org$
+
+# WND – WorldNetDaily
+# WND – WorldNetDaily is managed by Joseph Farah who received donations from
+# the Donald Trump superPAC "Great America "PAC" calling into further question
+# the motives behind the "fake" and conspiratorial nature of the content
+# delivered by this website.
+# http://www.fakenewschecker.com/fake-news-source/wnd-%E2%80%93-worldnetdaily
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# WND – WorldNetDaily publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+wnd.com$
+
+# World Truth
+# worldtruth.tv
+# http://www.fakenewschecker.com/fake-news-source/world-truth
+#
+# Biases: conspiratorial, editorial, political, psuedoscience
+#
+# World Truth publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+worldtruth.tv$
+
+# Yes I’m Right
+# worldnewsbureau.com redirects to this site.
+# http://www.fakenewschecker.com/fake-news-source/yes-i%E2%80%99m-right
+#
+# Biases: conspiratorial, political
+#
+# Yes I’m Right publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+yesimright.com$
+
+# Your News Wire
+# http://www.fakenewschecker.com/fake-news-source/your-news-wire
+#
+# Biases: conspiratorial, political
+#
+# Your News Wire publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+yournewswire.com$
+
+# Zero Hedge
+# http://www.fakenewschecker.com/fake-news-source/zero-hedge
+#
+# Biases: conspiratorial, political, psuedoscience
+#
+# Zero Hedge publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+zerohedge.com$
+
+# Zoot Feed
+# http://www.fakenewschecker.com/fake-news-source/zoot-feed
+#
+# Biases: conspiratorial, political
+#
+# Zoot Feed publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+zootfeed.com$

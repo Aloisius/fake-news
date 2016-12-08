@@ -6,5 +6,5 @@ sass stylish.scss stylish.css
 
 echo "Do this later"
 echo casperjs stylebot.js
-echo casperjs userscripts.js
+echo casperjs userstyles.js
 

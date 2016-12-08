@@ -1,0 +1,908 @@
+#
+# List: satire-fakenewschecker
+# Title: List of satire news sites from fakenewschecker.com
+#
+# Version: 2016120701
+# Homepage: http://www.fakenewschecker.com
+#
+# ------------------------------------------------------------------------------
+
+# Awaze Tribune
+# http://www.fakenewschecker.com/fake-news-source/awaze-tribune
+#
+# Biases: political
+#
+# Awaze Tribune uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+awazetribune.com$
+
+# Bent*Spud
+# http://www.fakenewschecker.com/fake-news-source/bentspud
+#
+# Biases: satire
+#
+# Bent*Spud uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+www.bentspud.com$
+
+# Borowitz Report
+# http://www.fakenewschecker.com/fake-news-source/borowitz-report
+#
+# Biases: satire
+#
+# Borowitz Report uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+borowitzreport.com$
+
+# Call the Cops
+# http://www.fakenewschecker.com/fake-news-source/call-cops
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Call the Cops uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+callthecops.net$
+
+# Cap News
+# http://www.fakenewschecker.com/fake-news-source/cap-news
+#
+# Biases: conspiratorial, political, psuedoscience, right bias, war
+#
+# Cap News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+cap-news.com$
+
+# Click Hole
+# http://www.fakenewschecker.com/fake-news-source/click-hole
+#
+# Biases: right bias
+#
+# Click Hole uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+clickhole.com$
+
+# Cracked
+# http://www.fakenewschecker.com/fake-news-source/cracked
+#
+# Biases: satire
+#
+# Cracked uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+cracked.com$
+
+# Daily Currant
+# "The Daily Currant is an American satirical news blog that focuses on
+# politics, technology, and entertainment. A number of its satirical stories
+# have been taken for true news reports by press."
+# http://www.fakenewschecker.com/fake-news-source/daily-currant
+#
+# Biases:
+#
+# Daily Currant uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+DailyCurrant.com$
+
+# Derf Magazine
+# http://www.fakenewschecker.com/fake-news-source/derf-magazine
+#
+# Biases: satire
+#
+# Derf Magazine publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+derfmagazine.com$
+
+# Empire News
+# http://www.fakenewschecker.com/fake-news-source/empire-news
+#
+# Biases: editorial, political, right bias
+#
+# Empire News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+EmpireNews.com$
+
+# Enduring Vision
+# This site has not actively published "news" for several years. Their articles
+# still exist and must be evaluated for truthfulness.
+# http://www.fakenewschecker.com/fake-news-source/enduring-vision
+#
+# Biases: psuedoscience, right bias, satire
+#
+# Enduring Vision  publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+enduringvision.com$
+
+# Faking News
+# http://www.fakenewschecker.com/fake-news-source/faking-news
+#
+# Biases: satire
+#
+# Faking News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+fakingnews.com$
+
+# FM observer
+# http://www.fakenewschecker.com/fake-news-source/fm-observer
+#
+# Biases: satire
+#
+# FM observer uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+fmobserver.com$
+
+# Free Wood Post
+# http://www.fakenewschecker.com/fake-news-source/free-wood-post
+#
+# Biases: satire
+#
+# Free Wood Post uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+freewoodpost.com$
+
+# Friday Mash
+# http://www.fakenewschecker.com/fake-news-source/friday-mash
+#
+# Biases: satire
+#
+# Friday Mash uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+fridaymash.com$
+
+# Glossynews.com
+# http://www.fakenewschecker.com/fake-news-source/glossynewscom
+#
+# Biases: satire
+#
+# Glossynews.com uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+glossynews.com$
+
+# Gomer Blog
+# "Earth's finest medical satire news for doctors, nurses, and all healthcare
+# professionals. It's like "The Onion" for medical professionals."
+# http://www.fakenewschecker.com/fake-news-source/gomer-blog
+#
+# Biases: editorial, left bias, right bias, satire
+#
+# Gomer Blog publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+gomerblog.com$
+
+# Humor Times
+# http://www.fakenewschecker.com/fake-news-source/humor-times
+#
+# Biases: satire
+#
+# Humor Times uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+humortimes.com$
+
+# Huzlers
+# "Huzlers.com is the most notorious fauxtire & satire entertainment website in
+# the world. If it's trending on social media you'll find it here!"
+# http://www.fakenewschecker.com/fake-news-source/huzlers
+#
+# Biases: right bias, satire
+#
+# Huzlers uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+huzlers.com$
+
+# Ironic Times
+# http://www.fakenewschecker.com/fake-news-source/ironic-times
+#
+# Biases: satire
+#
+# Ironic Times uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+ironictimes.com$
+
+# Islamica News
+# http://www.fakenewschecker.com/fake-news-source/islamica-news
+#
+# Biases: satire
+#
+# Islamica News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+islamicanews.com$
+
+# Johnny Robish
+# http://www.fakenewschecker.com/fake-news-source/johnny-robish
+#
+# Biases: satire
+#
+# Johnny Robish uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+johnnyrobish.com$
+
+# Lush for Life
+# http://www.fakenewschecker.com/fake-news-source/lush-life
+#
+# Biases: satire
+#
+# Lush for Life uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+lushforlife.com$
+
+# National Report
+# http://www.fakenewschecker.com/fake-news-source/national-report
+#
+# Biases: editorial, political, right bias, satire
+#
+# National Report uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+nationalreport.net$
+
+# News 4
+# http://www.fakenewschecker.com/fake-news-source/news-4
+#
+# Biases: editorial, psuedoscience, satire
+#
+# News 4 publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+news4ktla.com$
+
+# News Mutiny
+# http://www.fakenewschecker.com/fake-news-source/news-mutiny
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, satire
+#
+# News Mutiny uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+newsmutiny.com$
+
+# News Thump
+# "Topical news satire from the UK and around the world. Never letting the
+# truth ruin a good story."
+# http://www.fakenewschecker.com/fake-news-source/news-thump
+#
+# Biases: editorial, political, right bias, satire
+#
+# News Thump publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+newsthump.com$
+
+# NewsBiscuit
+# http://www.fakenewschecker.com/fake-news-source/newsbiscuit
+#
+# Biases: satire
+#
+# NewsBiscuit uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+newsbiscuit.com$
+
+# NewsBreakers
+# NEWSBREAKERS is a nonpartisan media watchdog group. It offers comment and
+# critique on the role of television news in informing the public. The group
+# relies on parody and non-traditional media transformations and interventions.
+# http://www.fakenewschecker.com/fake-news-source/newsbreakers
+#
+# Biases: satire
+#
+# NewsBreakers uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+newsbreakers.org$
+
+# Newslo
+# "Newslo’s “No Need to Satirize” brings you completely factual stories that
+# are so ridiculous, they don’t need our trademark touch. Whenever you see
+# #NNTS, you’re reading COMPLETELY real news that only seems too absurd to be
+# true."
+# http://www.fakenewschecker.com/fake-news-source/newslo
+#
+# Biases: conspiratorial, editorial, political, right bias
+#
+# Newslo aka Politicops.com uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+politicops.com$
+
+# Now8News.com
+# http://www.fakenewschecker.com/fake-news-source/now8newscom
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias
+#
+# Now 8 News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+now8news.com$
+
+# Political Blind Spot
+# http://www.fakenewschecker.com/fake-news-source/political-blind-spot
+#
+# Biases: conspiratorial, editorial, inciteful, political, right bias, satire
+#
+# Political Blind Spot publishes information that cannot be validated and that
+# is anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+politicalblindspot.com$
+
+# Private Eye
+# "The official site for the UK's number one best-selling news and current
+# affairs magazine: Private Eye. It offers a unique blend of humour, social and
+# political observations and investigative journalism."
+# http://www.fakenewschecker.com/fake-news-source/private-eye
+#
+# Biases: editorial, political, right bias, satire
+#
+# Private Eye uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+private-eye.co.uk$
+
+# Rock City Times
+# "Arkansas' 2nd most unreliable news source."
+# http://www.fakenewschecker.com/fake-news-source/rock-city-times
+#
+# Biases: political, right bias, satire
+#
+# Rock City Times publishes information that cannot be validated and that is
+# anti scientific fact. The information provided should be regarded as
+# speculative opinion or propaganda and cannot be substantiated by fact or
+# evidence. It is among the most untrustworthy sources in the media.
+rockcitytimes.com$
+
+# SatireWire
+# http://www.fakenewschecker.com/fake-news-source/satirewire
+#
+# Biases: satire
+#
+# SatireWire uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+satirewire.com$
+
+# ScrappleFace
+# http://www.fakenewschecker.com/fake-news-source/scrappleface
+#
+# Biases: satire
+#
+# ScrappleFace uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+scrappleface.com$
+
+# St Neots Citizen
+# http://www.fakenewschecker.com/fake-news-source/st-neots-citizen
+#
+# Biases: satire
+#
+# St Neots Citizen uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+stneotscitizen.com$
+
+# Stuppid
+# http://www.fakenewschecker.com/fake-news-source/stuppid
+#
+# Biases: satire
+#
+# Stuppid uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+stuppid.com$
+
+# Surreal Scoop
+# http://www.fakenewschecker.com/fake-news-source/surreal-scoop
+#
+# Biases: satire
+#
+# Surreal Scoop uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+surrealscoop.com$
+
+# The Beaverton
+# http://www.fakenewschecker.com/fake-news-source/beaverton
+#
+# Biases: satire
+#
+# The Beaverton publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+thebeaverton.com$
+
+# The Daily Discord
+# http://www.fakenewschecker.com/fake-news-source/daily-discord
+#
+# Biases: satire
+#
+# The Daily Discord uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+dailydiscord.com$
+
+# The Daily Mash
+# http://www.fakenewschecker.com/fake-news-source/daily-mash
+#
+# Biases: satire
+#
+# The Daily Mash uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+thedailymash.co.uk$
+
+# The Daily Squib
+# http://www.fakenewschecker.com/fake-news-source/daily-squib
+#
+# Biases: satire
+#
+# The Daily Squib uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+dailysquib.co.uk$
+
+# The Daily WTF
+# http://www.fakenewschecker.com/fake-news-source/daily-wtf
+#
+# Biases: satire
+#
+# The Daily WTF uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+thedailywtf.com$
+
+# The Dandy Goat
+# http://www.fakenewschecker.com/fake-news-source/dandy-goat
+#
+# Biases: satire
+#
+# The Dandy Goat uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+dandygoat.com$
+
+# The Inept Owl
+# http://www.fakenewschecker.com/fake-news-source/inept-owl
+#
+# Biases: satire
+#
+# The Inept Owl uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+theineptowl.com$
+
+# The Lapine
+# "The Lapine is Canada's Best Satirical Online Newspaper. It satirizes
+# politics, life, media and the human condition, with a special focus on
+# Canada."
+# http://www.fakenewschecker.com/fake-news-source/lapine
+#
+# Biases: satire
+#
+# The Lapine publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+thelapine.ca$
+
+# The Madison Misnomer
+# http://www.fakenewschecker.com/fake-news-source/madison-misnomer
+#
+# Biases: satire
+#
+# The Madison Misnomer  uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+themadisonmisnomer.com$
+
+# The News Nerd
+# http://www.fakenewschecker.com/fake-news-source/news-nerd
+#
+# Biases: editorial, right bias, satire
+#
+# The News Nerd publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+thenewsnerd.com$
+
+# The Onion
+# http://www.fakenewschecker.com/fake-news-source/onion
+#
+# Biases: editorial, satire
+#
+# The Onion publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+theonion.com$
+
+# The Poke
+# http://www.fakenewschecker.com/fake-news-source/poke
+#
+# Biases: satire
+#
+# The Poke uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+thepoke.co.uk$
+
+# The Racket Report
+# http://www.fakenewschecker.com/fake-news-source/racket-report
+#
+# Biases: conspiratorial, political
+#
+# The Racket Report uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+theracketreport.com$
+
+# The Sensationalist Times
+# http://www.fakenewschecker.com/fake-news-source/sensationalist-times
+#
+# Biases: satire
+#
+# The Sensationalist Times uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+sensationalisttimes.com$
+
+# The Shovel
+# http://www.fakenewschecker.com/fake-news-source/shovel
+#
+# Biases: political, psuedoscience, satire
+#
+# The Shovel publishes information that cannot be validated and that is anti
+# scientific fact. The information provided should be regarded as speculative
+# opinion or propaganda and cannot be substantiated by fact or evidence. It is
+# among the most untrustworthy sources in the media.
+theshovel.com.au$
+
+# The Skunk
+# http://www.fakenewschecker.com/fake-news-source/skunk
+#
+# Biases: satire
+#
+# The Skunk uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+theskunk.org$
+
+# The Spoof
+# http://www.fakenewschecker.com/fake-news-source/spoof
+#
+# Biases:
+#
+# The Spoof uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+thespoof.com$
+
+# The Times of The World
+# http://www.fakenewschecker.com/fake-news-source/times-world
+#
+# Biases: satire
+#
+# The Times of The World uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+thetimesoftheworld.com$
+
+# The UnReal Times
+# http://www.fakenewschecker.com/fake-news-source/unreal-times
+#
+# Biases: satire
+#
+# The UnReal Times uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+theunrealtimes.com$
+
+# The Valley Report
+# http://www.fakenewschecker.com/fake-news-source/valley-report
+#
+# Biases: satire
+#
+# The Valley Report uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+thevalleyreport.com$
+
+# Topeka News
+# http://www.fakenewschecker.com/fake-news-source/topeka-news
+#
+# Biases: satire
+#
+# Topeka News uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+topekasnews.com$
+
+# Unconfirmed Sources
+# "Always the News, Sometimes the Truth"
+# http://www.fakenewschecker.com/fake-news-source/unconfirmed-sources
+#
+# Biases:
+#
+# Unconfirmed Sources uses satire and fictionalizes accounts of current events
+# in a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+unconfirmedsources.com$
+
+# Waterford Whispers News
+# http://www.fakenewschecker.com/fake-news-source/waterford-whispers-news
+#
+# Biases: satire
+#
+# Waterford Whispers News uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+waterfordwhispersnews.com$
+
+# Weekly World News
+# http://www.fakenewschecker.com/fake-news-source/weekly-world-news
+#
+# Biases:
+#
+# Weekly World News uses satire and fictionalizes accounts of current events in
+# a mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+weeklyworldnews.com$
+
+# Wonkie
+# http://www.fakenewschecker.com/fake-news-source/wonkie
+#
+# Biases: satire
+#
+# Wonkie uses satire and fictionalizes accounts of current events in a
+# mock-journalistic style. Readers should read text carefully to catch the
+# clues and disclaimers and context of the articles published here. Shared
+# stories can quickly become viral and the origins are obscured, contributing
+# to the likelihood that they will be mistaken for fact. Remember to check your
+# sources and that this publisher represents themselves as a satirical source
+# (fake) of information.
+wonkie.com$
+
+# World News Daily Report
+# http://www.fakenewschecker.com/fake-news-source/world-news-daily-report
+#
+# Biases:
+#
+# World News Daily Report uses satire and fictionalizes accounts of current
+# events in a mock-journalistic style. Readers should read text carefully to
+# catch the clues and disclaimers and context of the articles published here.
+# Shared stories can quickly become viral and the origins are obscured,
+# contributing to the likelihood that they will be mistaken for fact. Remember
+# to check your sources and that this publisher represents themselves as a
+# satirical source (fake) of information.
+worldnewsdailyreport.com$

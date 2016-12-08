@@ -2,7 +2,7 @@
 # List: opinion-aloisius
 # Title: List of opinion, commentary and editorialized news site urls
 #
-# Version: 2016120601
+# Version: 2016120701
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
