@@ -13,6 +13,9 @@ There are currently 5 separate lists of 270 URLs and sites:
 * [fakenews-aloisius](lists/fakenews-aloisius.txt) - Fringe media sites that engage in yellow journalism, conspiracies, rumors, gossip, sensationalism, tabloid journalism, fake news, propaganda, etc.
 * [fakenews-snopes](lists/fakenews-snopes.txt) - Fake news sites from snopes.com
 * [fakenews-zidmars](lists/fakenews-zidmars.txt) - An edited list of fake news sites from Melissa Zimdars
+* [fakenews-fakenewschecker](lists/fakenews-fakenewschecker.txt) - A list of fake news sites from fakenewschecker.com
+* [satire-fakenewschecker](lists/satire-fakenewschecker.txt) - A list of satire sites from fakenewschecker.com
+* [opinion-fakenewschecker](lists/opinion-fakenewschecker.txt) - A list of opinion sites from fakenewschecker.com
 * [opinion-aloisius](lists/opinion-aloisius.txt) - Opinion and commentary news sites as well as opinion sections of mainstream news sites
 * [pulitzer-aloisius](lists/pulitzer-aloisius.txt) - Pulitzer prize winners for Journalism since 1981 (excluding commentary & photography)
 
