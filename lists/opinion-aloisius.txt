@@ -2,7 +2,7 @@
 # List: opinion-aloisius
 # Title: List of opinion, commentary and editorialized news site urls
 #
-# Version: 2016120701
+# Version: 2016120702
 # Homepage: https://github.com/Aloisius/fake-news/
 #
 # ------------------------------------------------------------------------------
@@ -120,3 +120,5 @@ forbes.com/sites/timworstall/
 forbes.com/sites/theapothecary/
 
 commondreams.org/views/
+
+nationalreview.com$

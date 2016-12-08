@@ -5015,6 +5015,14 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="nationalreview.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".nationalreview.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="advocate.com"] div.entry p.title::before {
                           @extend %opinion;
                         }
