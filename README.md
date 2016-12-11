@@ -6,6 +6,8 @@ as a reddit stylesheet to visually tag links to them appropriately.
 If you have your own list which classify sites or sections of sites, please let
 me know so I can include it.
 
+If there are any errors or a site is miscategorized, create an issue.
+
 ## Lists
 
 There are currently 5 separate lists of 674 URLs and sites:
@@ -22,8 +24,7 @@ There are currently 5 separate lists of 674 URLs and sites:
 
 ### List Format
 
-Lists are formatted with either "host/path" or "host path" on each line with support for simple prefix (^), suffix ($),
-substring on the hostname or path.
+Lists are formatted with either "host/path", "host path" or just "host" on each line with support for simple prefix (^), suffix ($), substring on the hostname or path.
 
 Comments begin with a hash (#).
 
