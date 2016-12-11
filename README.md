@@ -6,7 +6,7 @@ as a reddit stylesheet to visually tag links to them appropriately.
 If you have your own list which classify sites or sections of sites, please let
 me know so I can include it.
 
-If there are any errors or a site is miscategorized, create an issue.
+If there are any errors or a site is miscategorized, create an issue or a pull request.
 
 ## Lists
 
