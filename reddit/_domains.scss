@@ -5023,6 +5023,14 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="azcentral.com"][data-url*="azcentral.com/story/opinion/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".azcentral.com"][data-url*="azcentral.com/story/opinion/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="advocate.com"] div.entry p.title::before {
                           @extend %opinion;
                         }
