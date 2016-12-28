@@ -327,6 +327,14 @@
                           @extend %fringe;
                         }
                         
+                        div.link[data-domain="merri-amenrepublicofnorthamerica.org"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
+                        div.link[data-domain$=".merri-amenrepublicofnorthamerica.org"] div.entry p.title::before {
+                          @extend %fringe;
+                        }
+                        
                         div.link[data-domain="nationalreport.net"] div.entry p.title::before {
                           @extend %fringe;
                         }
