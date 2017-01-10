@@ -4255,6 +4255,14 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="krugman.blogs.nytimes.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".krugman.blogs.nytimes.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="theguardian.com"][data-url*="theguardian.com/commentisfree/"] div.entry p.title::before {
                           @extend %opinion;
                         }

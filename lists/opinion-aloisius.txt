@@ -8,6 +8,7 @@
 # ------------------------------------------------------------------------------
 
 nytimes.com$ /opinion/
+krugman.blogs.nytimes.com$
 theguardian.com/commentisfree/
 
 thehill.com/blogs/in-the-know
