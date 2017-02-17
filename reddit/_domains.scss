@@ -3743,6 +3743,14 @@
                           @extend %satire;
                         }
                         
+                        div.link[data-domain="themideastbeast.com"] div.entry p.title::before {
+                          @extend %satire;
+                        }
+                        
+                        div.link[data-domain$=".themideastbeast.com"] div.entry p.title::before {
+                          @extend %satire;
+                        }
+                        
                         div.link[data-domain="ap.org"] div.entry p.title::before {
                           @extend %pulitzer;
                         }
