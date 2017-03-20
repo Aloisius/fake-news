@@ -4415,6 +4415,14 @@
                           @extend %opinion;
                         }
                         
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/the-fix/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/the-fix/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
                         div.link[data-domain="investors.com"][data-url*="investors.com/politics/commentary/"] div.entry p.title::before {
                           @extend %opinion;
                         }
@@ -5052,6 +5060,38 @@
                         }
                         
                         div.link[data-domain$=".azcentral.com"][data-url*="azcentral.com/story/opinion/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="msnbc.com"][data-url*="msnbc.com/rachel-maddow-show/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".msnbc.com"][data-url*="msnbc.com/rachel-maddow-show/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="thinkprogress.org"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".thinkprogress.org"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="talkingpointsmemo.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".talkingpointsmemo.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="newobserveronline.com"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".newobserveronline.com"] div.entry p.title::before {
                           @extend %opinion;
                         }
                         

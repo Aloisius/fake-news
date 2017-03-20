@@ -30,6 +30,9 @@ washingtonpost.com/blogs/right-turn/
 washingtonpost.com/news/the-watch/
 washingtonpost.com/news/volokh-conspiracy/
 
+# not listed as opinion, but heavily amounts of commentary and opinion
+washingtonpost.com/news/the-fix/
+
 investors.com/politics/commentary/
 foxnews.com/opinion/
 
@@ -130,3 +133,6 @@ msnbc.com/rachel-maddow-show/
 
 thinkprogress.org$
 talkingpointsmemo.com$
+
+# Probably should move to fringe
+newobserveronline.com$
