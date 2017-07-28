@@ -4319,14 +4319,6 @@
                           @extend %opinion;
                         }
                         
-                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
-                          @extend %opinion;
-                        }
-                        
-                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/blogs/right-turn/"] div.entry p.title::before {
-                          @extend %opinion;
-                        }
-                        
                         div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/blogs/all-opinions-are-local/"] div.entry p.title::before {
                           @extend %opinion;
                         }
@@ -4412,6 +4404,14 @@
                         }
                         
                         div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/volokh-conspiracy/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain="washingtonpost.com"][data-url*="washingtonpost.com/news/wonk/"] div.entry p.title::before {
+                          @extend %opinion;
+                        }
+                        
+                        div.link[data-domain$=".washingtonpost.com"][data-url*="washingtonpost.com/news/wonk/"] div.entry p.title::before {
                           @extend %opinion;
                         }
                         
