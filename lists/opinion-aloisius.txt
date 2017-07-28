@@ -17,7 +17,6 @@ thehill.com/opinion/
 
 washingtonpost.com/opinions/
 washingtonpost.com/blogs/plum-line/
-washingtonpost.com/blogs/right-turn/
 washingtonpost.com/blogs/all-opinions-are-local/
 washingtonpost.com/news/act-four/
 washingtonpost.com/blogs/compost/
@@ -29,6 +28,7 @@ washingtonpost.com/news/rampage/
 washingtonpost.com/blogs/right-turn/
 washingtonpost.com/news/the-watch/
 washingtonpost.com/news/volokh-conspiracy/
+washingtonpost.com/news/wonk/
 
 # not listed as opinion, but heavily amounts of commentary and opinion
 washingtonpost.com/news/the-fix/
