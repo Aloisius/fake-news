@@ -412,24 +412,6 @@ blackgenocide.org$
 # evidence. It is among the most untrustworthy sources in the media.
 blacklistednews.com$
 
-# Blasting News
-# "Blasting News is a news publisher totally fueled and curated by the crowd.
-# News are produced by delocalized contributors (Blasters). Every single news
-# is fact-checked and curated by a quality team of professionals. News are
-# distributed both by Blasters and by Social Blasters, a global team of digital
-# influencers selected through application and interviews. All the core
-# processes are managed by technology: e.g., homepages are handled by a
-# patent-pending algorithm without human intervention."
-# http://www.fakenewschecker.com/fake-news-source/blasting-news
-#
-# Biases: conspiratorial, political, psuedoscience, right bias, war
-#
-# Blasting News publishes information that cannot be validated and that is anti
-# scientific fact. The information provided should be regarded as speculative
-# opinion or propaganda and cannot be substantiated by fact or evidence. It is
-# among the most untrustworthy sources in the media.
-blastingnews.com$
-
 # Blue Nation Review
 # http://www.fakenewschecker.com/fake-news-source/blue-nation-review
 #
